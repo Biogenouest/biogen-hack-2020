@@ -2,7 +2,8 @@
 
 ## Objectif de l'évènement 
 
-## Projets 
+## Projets proposés
+ - 
 
 ## Programme 
 
