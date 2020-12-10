@@ -1,6 +1,6 @@
 # Hackathon MoDaL Biogenouest 2020
 
-## Objectif de l'évènnement 
+## Objectif de l'évènement 
 
 ## Projets 
 
