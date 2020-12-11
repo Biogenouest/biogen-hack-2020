@@ -1,95 +1,122 @@
 # [Hackathon MoDaL Biogenouest 2020](https://albangaignard.github.io/biogen-hack-2020/)
 
+Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 et 26 janvier 2021 !
 
-## Informations sur le projet
+Après vous avoir questionné autour de vos expériences et attentes en intégration de données, nous avons perçu un vrai intérêt sur cet aspect de l’analyse des données et un intérêt croissant pour les principes FAIR. 
+
+Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
+
+Lors de cet événement, nous travaillerons ensemble sur des mini-projets de votre choix. Pendant ce temps chaque compétence est la bienvenue, en bio-informatique et dans le domaine de la science de la vie. 
+
+Tous les projets seront présentés lors du premier jour du Hackathon et chaque participant pourra décider auquel collaborer !
+
+
+## Informations à fournir lors de la soumission d'un mini-projet :
 
 **Titre:**
-<!-- Ajoutez un titre qui reflète ce que le code (ou le contenu) fera d'une manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
+<!-- Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
 
 **Responsable du projet:**
-<!-- Ajouter le nom complet (et les pseudonymes Twitter et Mattermost si possible) de la personne de contact. -->
+<!-- Ajouter le nom complet (et le pseudonyme GitHub) de la personne de contact. -->
 
 **Collaborateurs du projet:**
-<!-- Ajoutez les noms complets (et les pseudos Twitter si possible) de toute personne contribuant au projet. Essayez de suivre la [spécification de tous les contributeurs] (https://github.com/all-contributors/all-contributors). Les contributions de toute sorte sont les bienvenues ! -->
+<!-- Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues ! -->
 
-**Description du projet :**
-<!-- Ajoutez une brève description du projet. Essayez d'inclure toutes les informations pertinentes pour répondre aux questions suivantes :
-- Que faites-vous, pour qui, et pourquoi ;
-- Qu'est-ce qui rend votre projet spécial et passionnant ;
-- Un bref exemple ;
-- Comment démarrer ;
-- Où trouver des ressources clés ; -->
+**Description du projet et des données utilisées:**
+<!-- Ajoutez une brève description du projet et des données utilisées. Ajoutez un lien vers le dépô/sources, si disponible.  -->
 
-**Données à utiliser:**
-<!-- Si votre projet utilise des données, ajoutez une brève description des données et un lien vers leur source. -->
-
-**Lien vers le dépôt/sources du projet:**
-<!-- Ajouter un lien vers le dépôt ou le site web GitHub du projet. -->
-
-**But pour Brainhack Global 2020:**
+**Objectifs:**
 <!-- Ajoutez une liste d'étapes ou de résultats que vous comptez atteindre pendant l'événement. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes. -->
 
-**Compétences:**
-<!-- Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Essayez de penser à la fois aux compétences de codage et de non-codage. Vous pouvez fournir des niveaux de compétences prédéfinis, mais il est préférable de donner des exemples concrets du type de tâches auxquelles les contributeurs seront confrontés. Veillez à créer l'égalité des chances pour que les nouveaux arrivants dans votre projet puissent apprendre les uns des autres et partager leurs expériences. -->
+**Résultats attendus**
+<!-- Décrivez ce que vous souhaitez réaliser lors de ce brainhack. -->
+
+**Nécessités en compétences:**
+<!-- Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Essayez de penser à la fois aux compétences de codage et de non-codage. Vous pouvez fournir des niveaux de compétences prédéfinis ou donner des exemples concrets du type de tâches auxquelles les contributeurs seront confrontés. Veillez à donner aux nouveaux arrivant l'opportunité d'integrer votre projet afin que chaque participant puisse apprendre l'un de l'autre et partager leurs expériences. -->
 
 **Outils/logiciels/méthodes à utiliser:**
-<!-- Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement pour gagner un peu de temps avec l'installation du logiciel, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Essayez de penser à des détails codés et non codés concernant ces éléments à énumérer. 
----------------------------------------------------------------------
-Maintenant, la vraie liste (veuillez indiquer tous les labels que vous souhaitez ajouter à votre projet) :
+<!-- Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Pensez à ajouter au moins une compétence non bio-info). -->
 
-- Type de projet :
-coding_methods, data_management, documentation, method_development,
-pipeline_development, tutoriel_enregistrement, visualisation
 
-- État d'avancement du projet :
-0_concept_aucun_contenu, 1_structure de base, 2_existence
-
-- Thème du projet :
-Approches_baïsiennes, causalité, connectome, visualisation_des_données, apprentissage_profondis,
-diffusion, diversité_inclusivité_égalité, EEG_EventRelatedResponseModelling,
-EEG_modélisation_source, Granger_causalité, test_hypothèses, ICA, théorie de l'information,
-apprentissage_machine, méthodologies_MR, décodage_neural, codage_neural, réseaux_neuraux,
-PCA, physiologie, renforcement_apprentissage, méthodes_scientifiques_reproductibles, modèles de neurones uniques,
-modélisation_statistique, neurosciences_systèmes, tractographie
-
-- Outils utilisés dans le cadre du projet :
-AFNI, ANTs, BIDS, Brainstorm, CPAC, Datalad, DIPY, FieldTrip, fMRIPrep, Freesurfer,
-FSL, Jupyter, MNE, MRtrix, Nipype, NWB, SPM
-
-- Niveau de compétence des outils requis pour participer au projet (plusieurs possibilités) :
-à l'aise, expert, familier, aucune compétence requise
-
-- Langage de programmation utilisé dans le projet :
-no_programming_involved, C++, conteneurisation, documentation, Java, Julia, Matlab,
-Python, R, shell_scripting, Unix_command_line, Web, workflows
-
-- Modalités impliquées dans le projet (le cas échéant) :
-comportemental, CFA, ECG, ECOG, EEG, eye_tracking, IRMf, FNIRS, MEG, IRM, PET, TDCS, TMS
-
-- Les compétences des Git sont étudiées pour participer au projet (plusieurs possibilités) :
-0_aucune_compétence_git, 1_commande_poussée, 2_branches_PRs, 3_intégration_continue
--->
-
-- [ ] J'ai ajouté tous les labels que je veux associer à mon projet
-
-## Soumission de projet
-
-### Liste de contrôle de la soumission
-
-*Une fois le problème soumis, veuillez vérifier les éléments de cette liste en les ajoutant sous "Informations supplémentaires sur le projet "*.
-
-- Lien vers votre projet : peut être un dépôt de code, un document partagé, etc.
-- Objectifs de Brainhack Global 2020 : décrivez ce que vous souhaitez réaliser lors de ce brainhack.
-- [ ] Déchiffrez au moins 2 "bons premiers problèmes" : ce sont des tâches qui ne nécessitent aucune connaissance préalable de votre projet, et qui peuvent être définies comme des problèmes dans un dépôt GitHub ou dans un document partagé.
-- Compétences : énumérez les compétences qui seraient particulièrement adaptées à votre projet. Nous vous demandons d'inclure au moins une compétence non codante. Utilisez les étiquettes de problèmes à cette fin.
-- [ ] Canal de discussion : Un lien vers un canal de discussion qui sera utilisé lors de l'événement Brainhack Global 2020. Il peut s'agir d'un canal existant ou d'un nouveau canal. Nous vous recommandons d'utiliser l'espace [Brainhack sur Mattermost] (https://mattermost.brainhack.org/).
-<!-- [ ] Canal vidéo : Un lien vers un canal vidéo qui sera utilisé pendant le Brainhack Global 2020. Il peut s'agir d'une chaîne existante ou d'une nouvelle chaîne. Par exemple, une [salle de réunion Jitsi] (https://meet.jit.si/). **
-
-## Objectif de l'évènement 
 
 ## Projets proposés
- - 
+
+ - **Titre:**
+<!-- Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
+
+**Responsable du projet:**
+Thomas DARDE
+
+**Collaborateurs du projet:**
+<!-- Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues ! -->
+
+**Description du projet et des données utilisées:**
+Approches IA pour l'analyse textuelle des données issues de publication pour l'intégration automatique dans des base de données ( données textuelle + génomique)
+
+**Objectifs:**
+<!-- Ajoutez une liste d'étapes ou de résultats que vous comptez atteindre pendant l'événement. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes. -->
+
+**Résultats attendus**
+<!-- Décrivez ce que vous souhaitez réaliser lors de ce brainhack. -->
+
+**Nécessités en compétences:**
+<!-- Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Essayez de penser à la fois aux compétences de codage et de non-codage. Vous pouvez fournir des niveaux de compétences prédéfinis ou donner des exemples concrets du type de tâches auxquelles les contributeurs seront confrontés. Veillez à donner aux nouveaux arrivant l'opportunité d'integrer votre projet afin que chaque participant puisse apprendre l'un de l'autre et partager leurs expériences. -->
+
+**Outils/logiciels/méthodes à utiliser:**
+<!-- Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Pensez à ajouter au moins une compétence non bio-info). -->
+
+
+ - **Titre:**
+<!-- Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
+
+**Responsable du projet:**
+Sandrine GUILLOU
+
+**Collaborateurs du projet:**
+<!-- Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues ! -->
+
+**Description du projet et des données utilisées:**
+Microbiote, données sensorielles et données volatilome en fonction du temps
+
+**Objectifs:**
+Trouver un lien entre elles voire causalité
+
+**Résultats attendus**
+<!-- Décrivez ce que vous souhaitez réaliser lors de ce brainhack. -->
+
+**Nécessités en compétences:**
+<!-- Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Essayez de penser à la fois aux compétences de codage et de non-codage. Vous pouvez fournir des niveaux de compétences prédéfinis ou donner des exemples concrets du type de tâches auxquelles les contributeurs seront confrontés. Veillez à donner aux nouveaux arrivant l'opportunité d'integrer votre projet afin que chaque participant puisse apprendre l'un de l'autre et partager leurs expériences. -->
+
+**Outils/logiciels/méthodes à utiliser:**
+<!-- Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Pensez à ajouter au moins une compétence non bio-info). -->
+
+
 
 ## Programme 
+
+**Lundi 25 (9h30 - 16h30)** 
+
+9h30-10h :  Introduction (projet MoDaL et objectifs de ce hackathon (10min)
+Retour du formulaire (10min) ? 
+Expliquer comment ça marche le logiciel que nous allons utiliser (5min)
+Présenter le welcome desk (5min) et du programme (5 min)
+
+10h-12h : présentation de mini projets (2-3 diapos par projet / environ 5 min) et hacking 
+
+14h - 14h30 : non conférences 
+14h30 - 15h : retour au mini-projets
+15h00 - 15h30 : (facultatif) tutoriel 
+16h00 - 16h30 : checkpoint avancement des projets, retour d’expérience, propositions pour les non-conf ou tutoriel le lendemain 
+
+**Mardi 26 (10h - 16h30)**
+10h - 10h15 : bonjour - questions ? Bon travail  
+11h - 11h30: (facultatif) tutoriel  
+10h15-12h : mini projets 
+
+14h - 14h30 : non conférences 
+14h30 - 15h : retour au mini-projets
+15h00 - 16h00 : expo résultats obtenus par groupe 
+16h00 - 16h30 : conclusions - fin
+
 
 ## Organisateurs
