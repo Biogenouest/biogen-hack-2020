@@ -1,4 +1,4 @@
-# [Hackathon MoDaL Biogenouest 2021](https://albangaignard.github.io/biogen-hack-2020/)
+# [Hackathon MoDaL Biogenouest 2021](https://biogenouest.github.io/biogen-hack-2020/)
 
 Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 et 26 janvier 2021 !
 
