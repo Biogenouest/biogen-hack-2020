@@ -33,7 +33,7 @@ Ajoutez une brève description du projet et des données utilisées. Ajoutez un 
 
 Ajoutez une liste d'étapes ou de résultats que vous comptez atteindre pendant l'événement. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes.
 
-**Résultats attendus**
+**Résultats attendus:**
 
 Décrivez ce que vous souhaitez réaliser lors de ce brainhack.
 
