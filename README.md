@@ -1,6 +1,6 @@
 # [Hackathon MoDaL Biogenouest 2021](https://biogenouest.github.io/biogen-hack-2020/)
 
-Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 et 26 janvier 2021 !
+Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 janvier et le 1er février 2021 !
 
 Après vous avoir questionné autour de vos expériences et attentes en intégration de données, nous avons perçu un vrai intérêt sur cet aspect de l’analyse des données et un intérêt croissant pour les principes FAIR. 
 
@@ -27,7 +27,7 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
 15h - 15h30 : (facultatif) tutoriel 
 16h - 16h30 : checkpoint avancement des projets, retour d’expérience, propositions pour les non-conf ou tutoriel le lendemain 
 
-**Mardi 26 (10h - 16h30)**
+**Lundi 1 (10h - 16h30)**
 10h - 10h15 : bonjour - questions ? 
 10h15 - 12h : travail en groupe sur les mini-projets 
 11h - 11h30: (facultatif) tutoriel  
