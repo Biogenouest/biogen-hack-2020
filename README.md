@@ -126,30 +126,6 @@ multitableaux avec problématique de discrimination ou liens de causalité à me
 <!-- Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
 
 **Responsable du projet:**
-Thomas DARDE
-
-**Collaborateurs du projet:**
-<!-- Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues ! -->
-
-**Description du projet et des données utilisées:**
-Approches IA pour l'analyse textuelle des données issues de publication pour l'intégration automatique dans des base de données ( données textuelle + génomique)
-
-**Objectifs:**
-<!-- Ajoutez une liste d'étapes ou de résultats que vous comptez atteindre pendant l'événement. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes. -->
-
-**Résultats attendus**
-<!-- Décrivez ce que vous souhaitez réaliser lors de ce brainhack. -->
-
-**Nécessités en compétences:**
-<!-- Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Essayez de penser à la fois aux compétences de codage et de non-codage. Vous pouvez fournir des niveaux de compétences prédéfinis ou donner des exemples concrets du type de tâches auxquelles les contributeurs seront confrontés. Veillez à donner aux nouveaux arrivant l'opportunité d'integrer votre projet afin que chaque participant puisse apprendre l'un de l'autre et partager leurs expériences. -->
-
-**Outils/logiciels/méthodes à utiliser:**
-<!-- Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Pensez à ajouter au moins une compétence non bio-info). -->
-
- - **Titre:**
-<!-- Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet. -->
-
-**Responsable du projet:**
 Gabriel MARKOV
 
 **Collaborateurs du projet:**
