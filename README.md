@@ -10,7 +10,7 @@ Lors de cet événement, nous travaillerons ensemble sur des mini-projets de vot
 
 Tous les projets seront présentés lors du premier jour du Hackathon et chaque participant pourra décider auquel collaborer !
 
-[SOUMETTRE UN MINI-PROJET](https://biogenouest.github.io/biogen-hack-2020/soumettre_projet.md)
+[SOUMETTRE UN MINI-PROJET](soumettre_projet.md)
 
 ## Projets proposés
 
