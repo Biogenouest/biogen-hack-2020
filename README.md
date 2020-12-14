@@ -12,6 +12,18 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
 
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
+# Mini-projets potentiels
+ - [1] IA pour l'analyse textuelle des données issues de publication 
+ - [2] Microbiote, données sensorielles et données volatilome en fonction du temps
+ - [3] Multitableaux avec problématique de discrimination ou liens de causalité à mesurer
+ - [4] Intégration de données métabolomiques publiées dans Metabolights, en vue d'un interfaçage avec les réseaux métaboliques
+ - [5] Intégration de données avec plusieurs blocs de données métabolomiques et des données biométriques et environmentales
+ - [6] Collections d'images
+ - [7] Intégration de données d'épigénomique et de transcriptomique
+ - [8] Jeux de données de transcriptomique (RNA-Seq) et d'épigénétique (ChIP-Seq)
+ - [9] Jeu de données métabolomique MS à combiner soit avec un autre jeu de données métabolomique RMN ou avec un jeu de données 16S rRNA amplicon sequencing
+ - [10] Intégration de ces 2 types de données : WGS et RNAseq
+
 # Programme 
 
 **Lundi 25 (9h30 - 16h30)** 
@@ -37,14 +49,6 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
 14h30 - 15h : travail en groupe sur les mini-projets
 15h - 16h : expo résultats obtenus par groupe 
 16h - 16h30 : conclusions
-
-# Projets potentiels
- - [1] IA pour l'analyse textuelle des données issues de publication 
- - [2] Microbiote, données sensorielles et données volatilome en fonction du temps
- - [3] Multitableaux avec problématique de discrimination ou liens de causalité à mesurer
-
-
-
 
 
 # Organisateurs
