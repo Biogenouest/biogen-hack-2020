@@ -10,7 +10,7 @@ Lors de cet événement, nous travaillerons ensemble sur des mini-projets de vot
 
 Tous les projets seront présentés lors du premier jour du Hackathon et chaque participant pourra décider auquel collaborer !
 
-[SOUMETTRE UN MINI-PROJET](soumettre_projet.md)
+[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
 ## Projets proposés
 
