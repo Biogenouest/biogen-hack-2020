@@ -10,6 +10,11 @@ Lors de cet événement, nous travaillerons ensemble sur des mini-projets de vot
 
 Tous les projets seront présentés lors du premier jour du Hackathon et chaque participant pourra décider auquel collaborer !
 
+D'autres espaces seront également mis en place :
+- **Exposés flash**, où chacun d’entre vous pourra exposer brièvement (environ 5 min) un retour d’expérience en intégration de données, un outil ou un sujet qui vous tient à cœur !
+- **Espace pédagogique**, facultatif, sera prévu en parallèle au travail sur les mini-projets. Ces tutoriels dureront environ 30 min et cibleront un outil et/ou une méthode autour de l’intégration de données et des principes FAIR. 
+
+
 [Projet fédérateur MoDaL](Projet_modal.html)
 
 
