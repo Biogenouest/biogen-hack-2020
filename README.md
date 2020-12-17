@@ -23,23 +23,24 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
             Retour du formulaire (10min) ? 
             Expliquer comment ça marche le logiciel que nous allons utiliser (5min)
             Présenter le welcome desk (5min) et du programme (5 min)
-10h-12h : présentation de mini projets (2-3 diapos par projet / environ 5 min) et hacking 
+10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et hacking 
 
-14h - 14h30 : non conférences 
+14h - 14h30 : conférences flash
 14h30 - 15h : travail en groupe sur les mini-projets
 15h - 15h30 : (facultatif) tutoriel 
-16h - 16h30 : checkpoint avancement des projets, retour d’expérience, propositions pour les non-conf ou tutoriel le lendemain 
+16h - 16h30 : Checkpoint avancement des projets, retour d’expérience, propositions pour les non-conf ou tutoriel le lendemain 
 
 **Lundi 1 (10h - 16h30)**
-10h - 10h15 : bonjour - questions ? 
-10h15 - 12h : travail en groupe sur les mini-projets 
-11h - 11h30: (facultatif) tutoriel  
+
+10h - 10h15 : Bonjour - questions ? 
+10h15 - 12h : Travail en groupe sur les mini-projets 
+11h - 11h30 : (facultatif) tutoriel  
 
 
-14h - 14h30 : non conférences 
-14h30 - 15h : travail en groupe sur les mini-projets
-15h - 16h : expo résultats obtenus par groupe 
-16h - 16h30 : conclusions
+14h - 14h30 : conférences flash 
+14h30 - 15h : Travail en groupe sur les mini-projets
+15h - 16h   : Expo résultats obtenus par groupe 
+16h - 16h30 : Conclusions
 
 
 # Organisateurs
