@@ -41,7 +41,6 @@ D'autres espaces seront également mis en place :
 <br/> 10h15 - 12h : Travail en groupe sur les mini-projets 
 <br/> 11h - 11h30 : (facultatif) tutoriel  
 
-
 <br/> 14h - 14h30 : Exposés flash flash 
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
 <br/> 15h - 16h   : Expo résultats obtenus par groupe 
@@ -54,7 +53,7 @@ D'autres espaces seront également mis en place :
 
 | | |
 |-----------|-----|
-|**Alban Gaignard**   ![Alban_photo.jpeg](image_folder/Alban_photo.jpeg)|Alban est ingénieur de recherche CNRS à l'Institut du Thorax à Nantes. Ses recherches portent sur la représentations des connaissance (web sémantique, données liées) et les systèmes distribués (workflows, provenance) pour mieux intégrer et réutiliser les données des sciences de la vie. Depuis 2019, pour l’institut francais de bioinformatique (IFB), il co-anime l’action nationale “interopérabilité” et contribue à l'infrastructure européenne de bioinformatique Elixir.|
+|**Alban Gaignard** <br/>  ![Alban_photo.jpeg](image_folder/Alban_photo.jpeg)|Alban est ingénieur de recherche CNRS à l'Institut du Thorax à Nantes. Ses recherches portent sur la représentations des connaissance (web sémantique, données liées) et les systèmes distribués (workflows, provenance) pour mieux intégrer et réutiliser les données des sciences de la vie. Depuis 2019, pour l’institut francais de bioinformatique (IFB), il co-anime l’action nationale “interopérabilité” et contribue à l'infrastructure européenne de bioinformatique Elixir.|
 |![Camille_photo.jpeg](image_folder/Camille_photo.jpeg)|**Camille Maumet** est chargée de recherche en neuroinformatique à Inria, Univ Rennes, CNRS, Inserm dans l'équipe Empenn. Camille développe des méthodes statistiques et informatiques pour permettre le partage et la réutilisation de données en imagerie cérébrale. Elle soutient aussi activement la science ouverte. Elle a été précédemment post-doc à l'université de Warwick et à l'université d'Oxford où elle s'est intéressée aux méta-analyses d'images de résonance magnétique fonctionnelle.|
 |![Sofia_photo.jpeg](image_folder/Sofia_photo.jpeg)|**Sofia Strubbia** est ingénieure de recherche INSERM au sein de l'Institut du Thorax, à Nantes. De formation vétérinaire, elle s’est spécialisée en sécurité alimentaire avant de se former aux problématiques de Santé Unique. Elle est titulaire d’un doctorat en microbiologie, spécialité virologie. Sofia c’est formée à la métagénomique virale sur des échantillons environnementales au sein du laboratoire “Virus Discovery” de l’Erasmus Medical Center, Rotterdam. Depuis 2020 elle est animatrice du projet fédérateur MoDaL au sein de Biogenouest.|
 ![Olivier_photo.jpeg](image_folder/Olivier_photo.jpeg)|**Olivier Dameron** est professeur d’informatique à l’université de Rennes 1 et responsable de l’équipe Dyliss au laboratoire IRISA à Rennes. Il développe des méthodes basées sur les ontologies pour intégrer, interroger et analyser des données biomédicales. Cela fait intervenir des compétences en représentation des connaissances et en bioinformatique et repose sur le Web Sémantique et les données liées.|
