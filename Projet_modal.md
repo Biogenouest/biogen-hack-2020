@@ -1,5 +1,6 @@
 ## Projet fédérateur MoDaL (Multi Scale Data Linked)
 
+MoDaL (Multi-scale Data Linked) est un projet interrégional porté par le réseau [BioGenOuest](https://www.biogenouest.org/) qui vise à animer une large communauté scientifique autour de l’intégration de données hétérogènes (phénotypage et génotypage).
 
 MoDaL fédère une large communauté de scientifiques autour de la biologie végétale, marine, animale, humaine, de la santé et des sciences du numérique. Les animations, à la fois scientifiques et techniques, visent à appréhender collectivement les masses et la diversité des données biologiques, pour favoriser - dans le cadre de ce nouveau réseau - le développement de nouveaux projets scientifiques à l’interface numérique-biologie.
 
