@@ -52,7 +52,8 @@ D'autres espaces seront également mis en place :
 
 ## L'équipe MoDaL se présente : 
 
-![Alban_photo.jpeg](image_folder/Alban_photo.jpeg) <img style="float: right;" src="whatever.jpg">
+<img style="float: right;" src="whatever.jpg">
+![Alban_photo.jpeg](image_folder/Alban_photo.jpeg) 
 **Alban Gaignard** est ingénieur de recherche CNRS à l'Institut du Thorax à Nantes. Ses recherches portent sur la représentations des connaissance (web sémantique, données liées) et les systèmes distribués (workflows, provenance) pour mieux intégrer et réutiliser les données des sciences de la vie. Depuis 2019, pour l’institut francais de bioinformatique (IFB), il co-anime l’action nationale “interopérabilité” et contribue à l'infrastructure européenne de bioinformatique Elixir.     
 
 **Camille Maumet** est chargée de recherche en neuroinformatique à Inria, Univ Rennes, CNRS, Inserm dans l'équipe Empenn. Camille développe des méthodes statistiques et informatiques pour permettre le partage et la réutilisation de données en imagerie cérébrale. Elle soutient aussi activement la science ouverte. Elle a été précédemment post-doc à l'université de Warwick et à l'université d'Oxford où elle s'est intéressée aux méta-analyses d'images de résonance magnétique fonctionnelle.   
