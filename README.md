@@ -52,10 +52,6 @@ D'autres espaces seront également mis en place :
 
 ## L'équipe MoDaL se présente : 
 
-table {
-    width: 100%;
-}
-
 | | |
 |-----------|-----|
 |![Alban_photo.jpeg](image_folder/Alban_photo.jpeg)|**Alban Gaignard** est ingénieur de recherche CNRS à l'Institut du Thorax à Nantes. Ses recherches portent sur la représentations des connaissance (web sémantique, données liées) et les systèmes distribués (workflows, provenance) pour mieux intégrer et réutiliser les données des sciences de la vie. Depuis 2019, pour l’institut francais de bioinformatique (IFB), il co-anime l’action nationale “interopérabilité” et contribue à l'infrastructure européenne de bioinformatique Elixir.|
