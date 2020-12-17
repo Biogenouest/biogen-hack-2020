@@ -26,7 +26,7 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
             
 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et hacking 
 
-14h - 14h30 : conférences flash
+14h - 14h30 : exposés flash flash
 
 14h30 - 15h : travail en groupe sur les mini-projets
 
@@ -43,7 +43,7 @@ Tous les projets seront présentés lors du premier jour du Hackathon et chaque 
 11h - 11h30 : (facultatif) tutoriel  
 
 
-14h - 14h30 : conférences flash 
+14h - 14h30 : exposés flash flash 
 
 14h30 - 15h : Travail en groupe sur les mini-projets
 
