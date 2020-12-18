@@ -10,9 +10,14 @@ Après vous avoir questionné autour de vos expériences et attentes en intégra
 
 ```
 
-`` `html
-   // Je m'inscris ! => https://forms.gle/kUJzR4Hkf4opPAx98
-`` ''
+<div class="row">
+  <div class="col-md-6 col-lg-6">
+  <i class="pin"></i>
+  <blockquote class="note yellow" angular-textcolor="reflection">
+    We can't solve problems by using the same kind of thinking we used when we created them.
+    <cite class="author">Albert Einstein</cite>
+  </blockquote>
+  </div>
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
 
