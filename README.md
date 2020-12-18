@@ -4,6 +4,10 @@ Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 janvi
 
 Après vous avoir questionné autour de vos expériences et attentes en intégration de données, nous avons perçu un vrai intérêt sur cet aspect de l’analyse des données et un intérêt croissant pour les principes FAIR. 
 
+<div class="Formulaire d'inscription(https://forms.gle/7TTQ8UbKawwMDvaCA)">
+  .text-gray-dark on .bg-green-light
+</div>
+
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
 
 Lors de cet événement, nous travaillerons ensemble sur des mini-projets de votre choix. Pendant ce temps chaque compétence est la bienvenue, en bio-informatique et dans le domaine de la science de la vie. 
@@ -26,7 +30,7 @@ D'autres espaces seront également prévus :
             Retour du formulaire (10min) ? 
             Expliquer comment ça marche le logiciel que nous allons utiliser (5min)
             Présenter le welcome desk (5min) et du programme (5 min)
-<br/> 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et hacking 
+<br/> 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et travail en groupe sur les mini-projets 
 
 <br/> 14h - 14h30 : Exposés flash flash
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
