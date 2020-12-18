@@ -4,16 +4,8 @@ Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 janvi
 
 Après vous avoir questionné autour de vos expériences et attentes en intégration de données, nous avons perçu un vrai intérêt sur cet aspect de l’analyse des données et un intérêt croissant pour les principes FAIR. 
 
-```diff
+:pushpin: [Je m'inscris !](https://forms.gle/kUJzR4Hkf4opPAx98)
 
-! Je m'inscris ! => https://forms.gle/kUJzR4Hkf4opPAx98
-
-```
-
-<mat-select style="color: red" [(ngModel)]="someValue">
-  <mat-option>class="empty-select"</mat-option>
-  <mat-option class="not-empty-select" *ngFor="let unit of units [value]="unit">{{unit}}</mat-option>
-</mat-select>
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
 
@@ -27,7 +19,7 @@ D'autres espaces seront également prévus :
 
 
 
-[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
+:octocat: [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
 # Pré-programme 
 
