@@ -6,7 +6,7 @@ Après vous avoir questionné autour de vos expériences et attentes en intégra
 
 ```diff
 
-+ Je m'inscris ! => https://forms.gle/kUJzR4Hkf4opPAx98
+! Je m'inscris ! => https://forms.gle/kUJzR4Hkf4opPAx98
 
 ```
 
