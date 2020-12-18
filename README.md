@@ -6,6 +6,7 @@ Après vous avoir questionné autour de vos expériences et attentes en intégra
 
 <div class="bg-blue-light mb-2">
   .Je m'inscris ! 
+  
 </div>
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
