@@ -10,47 +10,10 @@ Après vous avoir questionné autour de vos expériences et attentes en intégra
 
 ```
 
-<div class="row">
-  <div class="col-md-6 col-lg-6">
-  <i class="pin"></i>
-  <blockquote class="note yellow" angular-textcolor="reflection">
-    We can't solve problems by using the same kind of thinking we used when we created them.
-    <cite class="author">Albert Einstein</cite>
-  </blockquote>
-  </div>
-  <div class="col-md-6 col-lg-6">
-<div class="panel panel-default" angular-textcolor="health">
-  <div class="panel-heading clearfix">
-    <h3 class="panel-title pull-left">angular-textColor="health"</h3>
-      <a class="btn btn-default pull-right" href="#">
-        <i class="fa fa-check"></i>
-        Button
-      </a>
-  </div>
-  <div class="panel-body">
-    <p>Card content...</p>
-  </div>
-  <div class="panel-footer">
-    <small>Card footer...</small>
-  </div>
-</div>
-<div class="panel panel-default" angular-textcolor="finances">
-  <div class="panel-heading clearfix">
-    <h3 class="panel-title pull-left">angular-textColor="finances"</h3>
-      <a class="btn btn-default pull-right" href="#">
-        <i class="fa fa-check"></i>
-        Button
-      </a>
-  </div>
-  <div class="panel-body">
-    <p>Card content...</p>
-  </div>
-  <div class="panel-footer">
-    <small>Card footer...</small>
-  </div>
-</div>
-  </div>
-  </div>
+<mat-select style="color: red" [(ngModel)]="someValue">
+  <mat-option>class="empty-select"</mat-option>
+  <mat-option class="not-empty-select" *ngFor="let unit of units [value]="unit">{{unit}}</mat-option>
+</mat-select>
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
 
