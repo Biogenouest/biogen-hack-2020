@@ -5,7 +5,9 @@ Nous sommes ravis de vous annoncer que le hackathon MoDaL aura lieu les 25 janvi
 Après vous avoir questionné autour de vos expériences et attentes en intégration de données, nous avons perçu un vrai intérêt sur cet aspect de l’analyse des données et un intérêt croissant pour les principes FAIR. 
 
 ```diff
-+ [Formulaire d'inscription](https://forms.gle/kUJzR4Hkf4opPAx98) 
+
++Je m'inscris ! => https://forms.gle/kUJzR4Hkf4opPAx98
+
 ```
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
