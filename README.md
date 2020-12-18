@@ -19,7 +19,7 @@ D'autres espaces seront également prévus :
 - **Tutoriels**, facultatif, sera prévu en parallèle au travail sur les mini-projets. Ces tutoriels dureront environ 30 min et cibleront un outil et/ou une méthode autour de l’intégration de données et des principes FAIR. 
 
 
-![projets.jpeg](image_folder/projets.jpeg)
+![projets.jpeg](image_folder/projets.jpeg)   
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
 # Pré-programme 
