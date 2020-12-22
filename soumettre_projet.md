@@ -1,4 +1,10 @@
-# Informations à fournir lors de la soumission d'un mini-projet :
+# Soumission d'un mini-projet : 
+
+Pour soummetre votre mini-projet vous pouvez completer le formulaire en ligne suivant [ce lien](https://forms.gle/oBUWEvkTDMHiL1h88) ou vous pouvez le soumettre directemente via la [page GutHub de Biogen-Hack](https://github.com/Biogenouest/biogen-hack-2020)  
+
+
+
+# Informations à fournir :
 
 #### Titre
 
@@ -31,4 +37,5 @@ Ajoutez une liste de compétences nécessaires pour contribuer à ce projet. Ess
 #### Outils - logiciels - méthodes
 
 Ajouter une liste d'outils/logiciels/méthodes qu'il est conseillé d'installer/réviser avant l'événement, la préparation des environnements ou la description des méthodes qui seront nécessaires pour contribuer à ce projet. Pensez à ajouter au moins une compétence non bio-info).
+
 
