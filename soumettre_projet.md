@@ -1,6 +1,6 @@
 # Soumission d'un mini-projet : 
 
-Pour soummetre votre mini-projet,  completez le formulaire en ligne suivant [ce lien](https://forms.gle/oBUWEvkTDMHiL1h88)!
+Pour soummetre votre mini-projet,  completez le formulaire en ligne suivant [ce lien](https://forms.gle/oBUWEvkTDMHiL1h88)
 
 # Informations à fournir :
 
