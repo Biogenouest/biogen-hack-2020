@@ -1,8 +1,6 @@
 # Soumission d'un mini-projet : 
 
-Pour soummetre votre mini-projet vous pouvez completer le formulaire en ligne suivant [ce lien](https://forms.gle/oBUWEvkTDMHiL1h88) ou vous pouvez le soumettre directemente via la [page GutHub de Biogen-Hack](https://github.com/Biogenouest/biogen-hack-2020)  
-
-
+Pour soummetre votre mini-projet,  completez le formulaire en ligne suivant [ce lien](https://forms.gle/oBUWEvkTDMHiL1h88)!
 
 # Informations à fournir :
 
