@@ -4,29 +4,26 @@ Pour soummetre votre mini-projet,  completez le formulaire en ligne suivant [ce 
 
 # Informations à fournir :
 
-#### Titre
-
-Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet.
 
 #### Responsable du projet
 
-Ajouter le nom complet (et le pseudonyme GitHub) de la personne de contact.
+Ajouter le nom complet (et le pseudonyme GitHub) de la personne de contact.  
 
 #### Collaborateurs du projet
 
-Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues !
+Ajoutez les noms complets (et les pseudos GitHub si possible) de toute personne contribuant au projet. Les contributions de toute sorte sont les bienvenues !  
+
+#### Titre
+
+Ajoutez un titre qui reflète ce que le code (ou le contenu). Essayez d'en choisir un simple et claire, de manière qui ait un sens pour les nouveaux venus qui veulent contribuer à votre projet.  
 
 #### Description du projet et des données utilisées
 
-Ajoutez une brève description du projet et des données utilisées. Ajoutez un lien vers le dépô/sources, si disponible. 
-
-#### Objectifs
-
-Ajoutez une liste d'étapes ou de résultats que vous comptez atteindre pendant l'événement. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes.
+Ajoutez une brève description du projet et des données utilisées. Ajoutez un lien vers le dépô/sources, si disponible.  
 
 #### Résultats attendus
 
-Décrivez ce que vous souhaitez réaliser lors de ce brainhack.
+Décrivez ce que vous souhaitez réaliser lors de ce brainhack. Essayez de fournir des objectifs plus ou moins complexes pour des participants ayant des compétences différentes.  
 
 #### Compétences 
 
