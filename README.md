@@ -27,10 +27,7 @@ D'autres espaces seront également prévus :
 
 **Lundi 25 (9h30 - 16h30)** 
 
-9h30-10h :  Introduction (projet MoDaL et objectifs de ce hackathon (10min)
-            Retour du formulaire (10min) ? 
-            Expliquer comment ça marche le logiciel que nous allons utiliser (5min)
-            Présenter le welcome desk (5min) et du programme (5 min)
+9h30-10h :  Introduction   
 <br/> 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et travail en groupe sur les mini-projets 
 
 <br/> 14h - 14h30 : Exposés flash flash
