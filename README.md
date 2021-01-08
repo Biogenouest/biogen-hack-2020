@@ -40,7 +40,7 @@ D'autres espaces seront également à votre disposition :
 <br/> 14h - 14h30 : Exposés flash flash
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
 <br/> 15h - 15h30 : (facultatif) tutoriel 
-<br/> 16h - 16h30 : Checkpoint avancement des projets, retour d’expérience, propositions pour les non-conf ou tutoriel le lendemain 
+<br/> 16h - 16h30 : Checkpoint avancement des projets 
 
 **Lundi 1 (10h - 16h30)**
 
