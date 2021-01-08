@@ -26,7 +26,7 @@ D'autres espaces seront également prévus :
 |Titre du projet|Responsable du projet|
 | --- | --- |
 |[GenFlow](GenFlow.html)|Thomas Darde|
-|Humess|Philippe Bordron|
+|[Humess](Humess.html)|Philippe Bordron|
      
 # Pré-programme 
 
