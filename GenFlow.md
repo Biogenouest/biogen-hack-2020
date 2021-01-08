@@ -17,6 +17,9 @@ Développement d'un espace de dépôt pour les workflows utilisés lors de l'ana
 - Script d’extraction de workflow depuis une publication scientifique (text minning)
 - Script de suggestion de stratégie d'analyse de donnée en fonction d'un outil données (marchin learning)
 
+## État d'avancement du projet : 
+0_ Concept - Aucun contenu
+
 ## Compétences attendues
 Génomique; Statistique; Ontologies; Dev web; Workflow
 
