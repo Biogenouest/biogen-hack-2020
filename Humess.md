@@ -2,7 +2,7 @@
 Philippe Bordron
 
 ## Collaborateurs du projet
-
+Chaque collaboration est la bienvenue !
 
 ## Titre
 Humess
