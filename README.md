@@ -19,9 +19,11 @@ D'autres espaces seront également prévus :
 - **Tutoriels**, facultatif, sera prévu en parallèle au travail sur les mini-projets. Ces tutoriels dureront environ 30 min et cibleront un outil et/ou une méthode autour de l’intégration de données et des principes FAIR. 
 
 
-![projets.jpeg](image_folder/projets.jpeg) 
-
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
+
+<a href="projets-soumis.html">
+<img src="image_folder/projets.jpeg" />
+</a>
 
 # Pré-programme 
 
@@ -61,6 +63,5 @@ D'autres espaces seront également prévus :
 **Olivier Dameron**    ![Olivier_photo.jpeg](image_folder/Olivier_photo.jpeg)|Olivier est professeur d’informatique à l’université de Rennes 1 et responsable de l’équipe Dyliss au laboratoire IRISA à Rennes. Il développe des méthodes basées sur les ontologies pour intégrer, interroger et analyser des données biomédicales. Cela fait intervenir des compétences en représentation des connaissances et en bioinformatique et repose sur le Web Sémantique et les données liées.|
 |**Audrey Bihouée**         ![Audrey_photo.jpg](image_folder/Audrey_photo.jpg)|Audrey est ingénieur d’études à l’Université de Nantes, et responsable technique de la plateforme de Bioinformatique BiRD. Après un master en neurosciences, elle a obtenu une double-compétence en informatique grâce à un master complémentaire. Elle a intégré la plateforme d’abord sur le volet bio-analyse de projets transcriptomiques et occupe aujourd’hui des missions de coordination dans les réseaux des plateformes de Biogenouest et de l’IFB.|
 |**Anne Siegel**      ![Anne_photo.jpeg](image_folder/Anne_photo.jpeg)|Anne est directrice de recherche au CNRS, et exerce ses recherches dans l’équipe Dyliss au laboratoire IRISA à Rennes. Elle est responsable du département « Gestion des données et connaissances » à l’IRISA et chargée de mission “bioinformatique” au CNRS (INS2I). Elle a obtenu un doctorat en mathématiques avant de s’intéresser aux interfaces entre la biologie et l’informatique en développant des approches symboliques de représentation et d’intégration de connaissances pour analyser des réseaux biologiques à grande-échelle.|
-
 
 Pour toutes informations complémentaires : sofia.strubbia@univ-nantes.fr
