@@ -21,10 +21,13 @@ D'autres espaces seront également prévus :
 
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
-<a href="projets-soumis.html">
-<img src="image_folder/projets.jpeg" />
-</a>
+| | |
+|-----------|-----|
+|![projets.jpeg](image_folder/projets.jpeg)|* GenFlow
+* Adipodata, an integrative view ?   
+* Humess|
 
+     
 # Pré-programme 
 
 **Lundi 25 (9h30 - 16h30)** 
