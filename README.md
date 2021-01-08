@@ -22,10 +22,7 @@ D'autres espaces seront également prévus :
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
 | | |
-|-----------|-----|
-|![projets.jpeg](image_folder/projets.jpeg)|* GenFlow
-* Adipodata, an integrative view ?   
-* Humess|
+|![projets.jpeg](image_folder/projets.jpeg)|* GenFlow ; * Adipodata, an integrative view ?  ; * Humess|
 
      
 # Pré-programme 
