@@ -18,7 +18,8 @@ D'autres espaces seront également à votre disposition :
 - **Exposés flash**, où chacun d’entre vous pourra exposer brièvement (environ 5 min) un retour d’expérience en intégration de données, un outil ou un sujet qui vous tient à cœur !
 - **Tutoriels**, facultatif, sera prévu en parallèle au travail sur les mini-projets. Ces tutoriels dureront environ 30 min et cibleront un outil et/ou une méthode autour de l’intégration de données et des principes FAIR.   
 
-**N'hesitez pas au cours du hackathon à vous manifester pour proposer un sujet et l'exposer !!**
+**N'hesitez pas, au cours du hackathon, à vous manifester pour proposer un sujet et l'exposer !!**
+
 
 
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
