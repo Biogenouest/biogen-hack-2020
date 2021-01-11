@@ -24,7 +24,7 @@ Human Adipokine ELISA kit: epitopes? primary/tertiary structure?
 ## Résultats attendus
 - (i) interpoler les données RNAseq porc/poulet sur les adipocytes intra-musculaires; en déduire des jeux de gènes/marqueurs pour ces cellules; combien seraient utilisables chez la truite? en dériver des jeux de primers
 
-- (ii) y retrouve t on tout ou partie du secrétome décrit chez l'homme: facteurs de croissance, adipokines? pourrait on utiliser les outils humains (anticorps, kit Elisa ici) pour détecter ces facteurs chez le poisson dans du milieu de culture adipocytaire par exemple? conservation des séquences et structures protéiques?
+- (ii) y retrouve-t-on tout ou partie du secrétome décrit chez l'homme: facteurs de croissance, adipokines? pourrait-on utiliser les outils humains (anticorps, kit Elisa ici) pour détecter ces facteurs chez le poisson dans du milieu de culture adipocytaire par exemple? conservation des séquences et structures protéiques?
 
 - (iii) pourrait-on étendre cette approche à  d'autres espèces pour explorer secrétomes (10.3390/ijms21124375.; 10.1039/c6mb00224b.) et sous-populations cellulaires d'autres dépôts adipeux (https://doi.org/10.1016/j.tcb.2020.09.007) pour aller vers une vision intégrative des données publiées, source d' hypothèses à évaluer sur la truite et/ou le poisson-zèbre? => mise en place de manips
 
