@@ -29,6 +29,7 @@ D'autres espaces seront également à votre disposition :
 | --- | --- |
 |[GenFlow](GenFlow.html)|Thomas Darde|
 |[Humess](Humess.html)|Philippe Bordron|
+|[Adipodata, an integrative view ?](Adipodata.html) | Isabelle Hue|
      
 # Pré-programme 
 
