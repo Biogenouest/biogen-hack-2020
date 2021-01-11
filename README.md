@@ -53,7 +53,7 @@ D'autres espaces seront également à votre disposition :
 <br/> 14h - 14h30 : Exposés flash flash 
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
 <br/> 15h - 16h   : Expo résultats obtenus par groupe 
-<br/> 16h - 16h30 : Conclusions
+<br/> 16h - 17h : Conclusions
 
 
 # Organisateurs
