@@ -130,6 +130,16 @@ Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 
 [Projet fédérateur MoDaL](Projet_modal.html)
 
+<details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details>
+
+<details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details>
+
 ## L'équipe MoDaL se présente : 
 
 | | |
