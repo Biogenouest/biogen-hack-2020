@@ -30,7 +30,7 @@ D'autres espaces seront également à votre disposition :
 ## [GenFlow](GenFlow.html)
 
 ### Personne contact : 
-Thomas Darde - BioMas
+Thomas Darde
 
 ### Participants :
 Paul Rivaut, François Moreews et …
