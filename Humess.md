@@ -1,7 +1,7 @@
-## Responsable du projet
+## Personne contact
 Philippe Bordron
 
-## Collaborateurs du projet
+## Participants
 Chaque collaboration est la bienvenue !
 
 ## Titre
@@ -16,15 +16,15 @@ Dans le cadre de ce hackathon, je souhaite travailler sur les représentations e
 ## Résultats attendus
 
 Je souhaite tout d'abord comparer des matrices de corrélation obtenues sur plusieurs organes ou conditions:
-1.a d'un point de vue global, comparer les organes. C'est à dire calculer une dissimilarité (distance) ou une similarité entre chaque organe. De approches de comparaison de matrices de covariance ont déjà été tentées (procrustes, test de mantel) , mais les résultats sont mitigés.
-1.b d'un point de vue plus spécifique; déterminer ce qui change et ne change pas entre les organes, au delà des réactions et des métabolites spécifiques à chaque réseau.
+- **1.a** d'un point de vue global, comparer les organes. C'est à dire calculer une dissimilarité (distance) ou une similarité entre chaque organe. De approches de comparaison de matrices de covariance ont déjà été tentées (procrustes, test de mantel) , mais les résultats sont mitigés.
+- **1.b** d'un point de vue plus spécifique; déterminer ce qui change et ne change pas entre les organes, au delà des réactions et des métabolites spécifiques à chaque réseau.
 
 La difficulté de ce point n'est pas vraiment technique, mais méthodologique. Nous manipulons des millions de corrélations entre réactions et les approches statistiques utilisant des matrices 'feature x échantillon'  (e.g. RNASeq, ...) sont difficilement applicable.
 
 Je souhaite également travailler sur les aspects visualisation et enrichissement des résultats:
-2 Projeter les résultats obtenus sur des réseau métaboliques existants. Tout d'abord les réseaux métaboliques reconstruits, mais également une manière re représenter les matrice de corrélation de façon intelligible malgré leur grande dimension.
-2.b Projeter/intégrer/enrichir ces résultats avec les analyses transcriptomiques effectuées en parallèle.
-2.c envisager d'autres sources omique à intégrer (proteomique, metabolomique, ...) 
+- **2.a** Projeter les résultats obtenus sur des réseau métaboliques existants. Tout d'abord les réseaux métaboliques reconstruits, mais également une manière re représenter les matrice de corrélation de façon intelligible malgré leur grande dimension.
+- **2.b** Projeter/intégrer/enrichir ces résultats avec les analyses transcriptomiques effectuées en parallèle.
+- **2.c** Envisager d'autres sources omique à intégrer (proteomique, metabolomique, ...) 
 
 Seule une phase de recherche sur quelques outils possibles a été effectuée pour cette partie.   
 **Toute proposition est la bienvenue !**
