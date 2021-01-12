@@ -10,7 +10,7 @@ Après vous avoir questionné autour de vos expériences et attentes en intégra
 
 Le Hackathon aura pour but le travail collaboratif, le partage d'expériences et de  connaissances et la co-conception de solutions informatiques innovantes autour de l’intégration de données hétérogènes. 
 
-Lors de cet événement, nous travaillerons ensemble sur des mini-projets de votre choix. Pendant ce temps chaque compétence est la bienvenue, en bio-informatique et dans le domaine de la science de la vie. 
+Lors de cet événement, nous travaillerons ensemble sur des **mini-projets** de votre choix. Pendant ce temps chaque compétence est la bienvenue, en bio-informatique et dans le domaine de la science de la vie. 
 
 Tous les projets seront présentés lors du premier jour du Hackathon et chaque participant pourra décider auquel collaborer !
 
