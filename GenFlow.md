@@ -1,7 +1,7 @@
-## Responsable du projet
+## Personne contact
 Thomas Darde - BioMas
 
-## Collaborateurs du projet
+## Participants
 Paul Rivaut, François Moreews et ...
 
 ## Titre
