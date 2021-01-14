@@ -159,6 +159,11 @@ Ce projét est autour de la découvrabilité des données. L'objectif est de ré
 <br/> 15h - 16h   : Expo résultats obtenus par groupe 
 <br/> 16h - 17h : Conclusions
 
+# Informations utiles 
+Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !  
+
+Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
+
 
 # Organisateurs
 
