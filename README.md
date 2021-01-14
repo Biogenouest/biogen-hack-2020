@@ -101,7 +101,7 @@ Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 
 - **(iii)** pourrait-on étendre cette approche à d’autres espèces pour explorer secrétomes (10.3390/ijms21124375.; 10.1039/c6mb00224b.) et sous-populations cellulaires d’autres dépôts adipeux (https://doi.org/10.1016/j.tcb.2020.09.007) pour aller vers une vision intégrative des données publiées, source d’ hypothèses à évaluer sur la truite et/ou le poisson-zèbre? => mise en place de manips
 
-## [Data about data](data-about-data.html) 
+## [Federated queries on imaging and genomics data](fed-queries.html) 
 
 ### Personne contact :
 Olivier Dameron, Alban Gaignard, Camille Maumet
@@ -119,7 +119,7 @@ Nous proposerons et évaluerons des requêtes SPARQL fédérées, afin de pouvoi
 - Déployer 1 endpoint SPARQL par type de données 
 - Exécuter et évaluer la performance et les résultats des requêtes SPARQL fédérées (avec askOmics et/ou autre moteur de requête). 
 
-## [Federated queries on imaging and genomics data](fed-queries.html) 
+## [Data about data](data-about-data.html)
 
 ### Personne contact :
 Alban Gaignard, , Audrey Bihouée, Camille Maumet, Sofia Strubbia
