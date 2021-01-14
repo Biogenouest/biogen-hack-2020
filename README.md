@@ -100,8 +100,42 @@ Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 - **(ii)** y retrouve-t-on tout ou partie du secrétome décrit chez l’homme: facteurs de croissance, adipokines? pourrait-on utiliser les outils humains (anticorps, kit Elisa ici) pour détecter ces facteurs chez le poisson dans du milieu de culture adipocytaire par exemple? conservation des séquences et structures protéiques?
 
 - **(iii)** pourrait-on étendre cette approche à d’autres espèces pour explorer secrétomes (10.3390/ijms21124375.; 10.1039/c6mb00224b.) et sous-populations cellulaires d’autres dépôts adipeux (https://doi.org/10.1016/j.tcb.2020.09.007) pour aller vers une vision intégrative des données publiées, source d’ hypothèses à évaluer sur la truite et/ou le poisson-zèbre? => mise en place de manips
-     
-     
+
+## [Data about data](data-about-data.html) 
+
+### Personne contact :
+Olivier Dameron, Alban Gaignard, Camille Maumet
+
+### Participants :
+Chaque collaboration est la bienvenue !
+
+### Description du projet et des données utilisées :
+Nous proposerons et évaluerons des requêtes SPARQL fédérées, afin de pouvoir interroger des bases de données multi-sites et limiter la centralisation des données. Dans ce projet les données sont stockées en RDF et incluent des observations cliniques, des IRM et des données génomiques sur des patients atteints d’anévrismes intracrâniens. 
+
+### Résultats attendus :
+- Construction de plusieurs graphes de connaissance (un par jeu de donnée)
+- Identification des ontologies nécessaires
+- Identifier des questions biologiques pertinentes
+- Déployer 1 endpoint SPARQL par type de données 
+- Exécuter et évaluer la performance et les résultats des requêtes SPARQL fédérées (avec askOmics et/ou autre moteur de requête). 
+
+## [Federated queries on imaging and genomics data](fed-queries.html) 
+
+### Personne contact :
+Alban Gaignard, , Audrey Bihouée, Camille Maumet, Sofia Strubbia
+
+### Participants :
+Chaque collaboration est la bienvenue !
+
+### Description du projet et des données utilisées :
+Ce projét est autour de la découvrabilité des données. L'objectif est de répondre aux questions des chercheurs qui souhaitent faire connaître les informations relatives à leurs jeux de données sans pour autant partager les données elles-mêmes. Comment décrire les échantillons ? Quelles informations partager ? Comment indexer ces données ? De même, des questions similaires peuvent se présenter aux experts en science du numérique au moment de sélectionner ou réutiliser un jeu de données. 
+
+### Résultats attendus :
+- Engager une discussion sur l’importance des métadonnées (quoi inclure et comment) 
+- Produire une liste de standards “suffisants”
+- Recenser les ontologies existantes pour définir la provenance et la nature d’un échantillon
+
+  
 # Pré-programme 
 
 **Lundi 25 (9h30 - 16h30)** 
