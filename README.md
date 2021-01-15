@@ -37,8 +37,8 @@ D'autres espaces seront également à votre disposition :
 |[Adipodata, an integrative view ?](Adipodata.html)|Isabelle Hue|
 |[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron,Camille Maumet|
 |[Data about data](data-about-data.html)|Alban Gaignard, Audrey Bihouée, Sofia Strubbia|
-|[M2A (Metabolights to AuReMe)](M2A.md)|Gabriel MARKOV|
-|[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre-chev.md)|Aline FOURY|
+|[M2A (Metabolights to AuReMe)](M2A.html)|Gabriel MARKOV|
+|[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre_cheval.html)|Aline FOURY|
 
 
 ## [GenFlow](GenFlow.html)
@@ -97,7 +97,7 @@ Alban Gaignard, , Audrey Bihouée, Camille Maumet, Sofia Strubbia
 Ce projét est autour de la découvrabilité des données. L'objectif est de répondre aux questions des chercheurs qui souhaitent faire connaître les informations relatives à leurs jeux de données sans pour autant partager les données elles-mêmes. Comment décrire les échantillons ? Quelles informations partager ? Comment indexer ces données ? De même, des questions similaires peuvent se présenter aux experts en science du numérique au moment de sélectionner ou réutiliser un jeu de données.
 
 
-## [M2A (Metabolights to AuReMe)](M2A.md)
+## [M2A (Metabolights to AuReMe)](M2A.html)
 
 ### Personne contact
 Gabriel MARKOV (GitHub: gabrielmarkov)
@@ -106,7 +106,7 @@ Gabriel MARKOV (GitHub: gabrielmarkov)
 Les réseaux métaboliques à l'échelle du génome (RMEG) représentent l'ensemble des connaissances sur le métabolisme d'une espèce donnée. Ils sont pour l'essentiel construits sur la base d'informations génomiques, mais peuvent être enrichis par des données métabolomiques. Toutefois, l'interopérabilité entre ces deux types de données est limitée par le développement inégal des bases de données métabolomiques par espèces par rapport aux bases de données de séquences protéiques. Par exemple, la base de données MetaboLights (infrastucture ELIXIR) propose de mettre à disposition ce type de données [doi: 10.1093/gigascience/gix062](http://doi:10.1093/gigascience/gix062), mais son utilisation reste limitée du fait de la barrière d'entrée élevée pour les nouveaux utilisateurs, alors même que les données correspondantes ont parfois été compilées. C'est le cas pour plusieurs espèces de macroalgues, pour lesquelles des RMEGs ont été reconstruits récemment: l'algue rouge Chondrus crispus [doi: 10.1016/j.isci.2020.100849](https://pubmed.ncbi.nlm.nih.gov/32058961/) et les algues brunes Cladosiphon okamuranus et Saccharina japonica [doi:10.3390/antiox8110564](https://doi:10.3390/antiox8110564).
 L'objectif du projet sera de finaliser la soumission de ces données dans Metabolights et de réfléchir à la meilleure manière de mettre à jour cette information dans les RMEGs correspondants disponibles sur [http://aureme.genouest.org/wiki.html](http://aureme.genouest.org/wiki.html).
 
-## [Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre-chev.md)
+## [Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre_cheval.html)
 
 ### Personne contact
 Aline FOURY
