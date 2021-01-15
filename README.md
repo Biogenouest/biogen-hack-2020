@@ -20,14 +20,17 @@ D'autres espaces seront également à votre disposition :
 
 **N'hesitez pas, au cours du hackathon, à vous manifester pour proposer un sujet et l'exposer !!**
 
+# Sommaire 
+- [Mini-projets](#Mini-projets)
+- [Pré-programme](#Pré-programme)
+- [Informations utiles](#(Informations-utiles)
+- [Organisateurs](#Organisateurs)
 
+# Mini-projets
 
 [SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
 
-
 <img align="right" width="300" src="image_folder/projets.jpeg">
-
-# Mini-projets 
 
 |**Titre** |**Personne contact** |
 |[GenFlow](GenFlow.html)|Thomas Darde|
