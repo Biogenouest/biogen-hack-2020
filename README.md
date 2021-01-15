@@ -26,9 +26,9 @@ D'autres espaces seront également à votre disposition :
 - [Informations utiles](#Informations-utiles)
 - [Organisateurs](#Organisateurs)
 
-# Mini-projets
+# Mini-projets   <img align="right" width="300" src="image_folder/projets.jpeg">
 
-[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)    <img align="right" width="300" src="image_folder/projets.jpeg">
+[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)   
 
 |Titre|Personne contact|
 | ------------- | ------------- |
