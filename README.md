@@ -39,6 +39,7 @@ D'autres espaces seront également à votre disposition :
 |[Data about data](data-about-data.html)|Alban Gaignard, Audrey Bihouée, Sofia Strubbia|
 |[M2A (Metabolights to AuReMe)](M2A.html)|Gabriel MARKOV|
 |[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre_cheval.html)|Aline FOURY|
+|[Détection du Norovirus en France](norovrus.html)|Alban Besnard|
 
 
 ## [GenFlow](GenFlow.html)
@@ -113,6 +114,14 @@ Aline FOURY
 
 ### Description du projet et des données utilisées
 L'étude concerne 18 chevaux de sport, 9 chevaux non agressifs et 9 chevaux agressifs. Chaque cheval est caractérisé par un score d'agressivité. L'ARN a été extrait à partir du sang total afin de réaliser une analyse transcriptomique. Le but du projet est d'identifier les gènes marqueurs de l'agressivité chez le cheval ainsi que les voies métaboliques dans lesquelles ils sont impliqués.
+
+## [Détection du Norovirus en France](norovrus.html)
+
+### Personne contact
+Alban Besnard
+
+### Description du projet et des données utilisées
+
 
   
 # Pré-programme 
