@@ -32,7 +32,6 @@ D'autres espaces seront également à votre disposition :
 
 <img align="right" width="300" src="image_folder/projets.jpeg">
 
-
 |Titre|Personne contact|
 | ------------- | ------------- |
 |[GenFlow](GenFlow.html)|Thomas Darde|
