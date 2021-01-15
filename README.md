@@ -28,8 +28,7 @@ D'autres espaces seront également à votre disposition :
 
 # Mini-projets
 
-[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)
-<img align="right" width="300" src="image_folder/projets.jpeg">
+[SOUMETTRE UN MINI-PROJET](soumettre_projet.html)    <img align="right" width="300" src="image_folder/projets.jpeg">
 
 |Titre|Personne contact|
 | ------------- | ------------- |
