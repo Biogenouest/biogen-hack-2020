@@ -37,6 +37,7 @@ D'autres espaces seront également à votre disposition :
 |[Adipodata, an integrative view ?](Adipodata.html)|Isabelle Hue|
 |[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron,Camille Maumet|
 |[Data about data](data-about-data.html)|Alban Gaignard, Audrey Bihouée, Sofia Strubbia|
+|[M2A (Metabolights to AuReMe)](M2A.md)|Gabriel MARKOV|
 
 
 ## [GenFlow](GenFlow.html)
@@ -44,54 +45,26 @@ D'autres espaces seront également à votre disposition :
 ### Personne contact : 
 Thomas Darde
 
-### Participants :
-Paul Rivaut, François Moreews et …
-
 ### Description du projet et des données utilisées :
 Développement d’un espace de dépôt pour les workflows utilisés lors de l’analyse de données génomique issus de publications scientifique. Chaque workflow est extrait automatiquement de la publication quand c’est possible (text minning) ou les utilisateurs peuvent déployer leurs propres workflows via une interface dédiée. Toute information déposée sur cet espace doit être caractérisée par l’utilisation de vocabulaire contrôlé.
 
-### Résultats attendus :
-- Indexation outils bio-info (connaissances bio-info générales)
-- Indexation ontologies pertinente (connaissances bio-info générales)
-- Interface web de soumission de workflow avec utilisation des ontologies (dev web)
-- Script d’extraction de workflow depuis une publication scientifique (text minning)
-- Script de suggestion de stratégie d’analyse de donnée en fonction d’un outil données (marchin learning)
 
 ## [Humess](Humess.html)
 
 ### Personne contact : 
 Philippe Bordron
 
-### Participants :
-Chaque collaboration est la bienvenue !
 
 ### Description du projet et des données utilisées :
 Humess est un projet de reconstruction à façon de réseaux métaboliques humains fontionnels à partir de données d’expression de 3’SRP ainsi que de leur analyse à l’aide d’une approche de corrélation de flux métabolique.
 
 À partir de réseaux métaboliques fonctionnels, les analyses en corrélation de flux métabolique produises de grandes matrice de corrélation entre réactions (environ 5000x5000 en moyenne sur un réseau humain). Ces matrices donne une sur-approximation de la dynamique métabolique existant dans les réseaux étudiés. Dans le cadre de ce hackathon, je souhaite travailler sur les représentations et l’accessibilité des obtenus.
 
-### Résultats attendus :
-Je souhaite tout d’abord comparer des matrices de corrélation obtenues sur plusieurs organes ou conditions: 
-- **1.a** d’un point de vue global, comparer les organes. C’est à dire calculer une dissimilarité (distance) ou une similarité entre chaque organe. De approches de comparaison de matrices de covariance ont déjà été tentées (procrustes, test de mantel) , mais les résultats sont mitigés. 
-- **1.b** d’un point de vue plus spécifique; déterminer ce qui change et ne change pas entre les organes, au delà des réactions et des métabolites spécifiques à chaque réseau.
-
-La difficulté de ce point n’est pas vraiment technique, mais méthodologique. Nous manipulons des millions de corrélations entre réactions et les approches statistiques utilisant des matrices ‘feature x échantillon’ (e.g. RNASeq, …) sont difficilement applicable.
-
-Je souhaite également travailler sur les aspects visualisation et enrichissement des résultats: 
-- **2.a** Projeter les résultats obtenus sur des réseau métaboliques existants. Tout d’abord les réseaux métaboliques reconstruits, mais également une manière re représenter les matrice de corrélation de façon intelligible malgré leur grande dimension. 
-- **2.b** Projeter/intégrer/enrichir ces résultats avec les analyses transcriptomiques effectuées en parallèle. 
-- **2.c** envisager d’autres sources omique à intégrer (proteomique, metabolomique, …)
-
-Seule une phase de recherche sur quelques outils possibles a été effectuée pour cette partie.
-Toute proposition est la bienvenue !
 
 ## [Adipodata, an integrative view ?](Adipodata.html) 
 
 ### Personne contact :
 Isabelle Hue
-
-### Participants :
-Chaque collaboration est la bienvenue !
 
 ### Description du projet et des données utilisées :
 Analyse in silico de données publiées sur les adipocytes de diverses espèces:
@@ -104,46 +77,30 @@ Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 
 - **(iv)** Oncorhynchus mykiss (rainbow trout) genome => orthologous gene mapping
 
-### Résultats attendus :
-- **(i)** interpoler les données RNAseq porc/poulet sur les adipocytes intra-musculaires; en déduire des jeux de gènes/marqueurs pour ces cellules; combien seraient utilisables chez la truite? en dériver des jeux de primers
-
-- **(ii)** y retrouve-t-on tout ou partie du secrétome décrit chez l’homme: facteurs de croissance, adipokines? pourrait-on utiliser les outils humains (anticorps, kit Elisa ici) pour détecter ces facteurs chez le poisson dans du milieu de culture adipocytaire par exemple? conservation des séquences et structures protéiques?
-
-- **(iii)** pourrait-on étendre cette approche à d’autres espèces pour explorer secrétomes (10.3390/ijms21124375.; 10.1039/c6mb00224b.) et sous-populations cellulaires d’autres dépôts adipeux (https://doi.org/10.1016/j.tcb.2020.09.007) pour aller vers une vision intégrative des données publiées, source d’ hypothèses à évaluer sur la truite et/ou le poisson-zèbre? => mise en place de manips
-
 ## [Federated queries on imaging and genomics data](fed-queries.html) 
 
 ### Personne contact :
 Olivier Dameron, Alban Gaignard, Camille Maumet
 
-### Participants :
-Chaque collaboration est la bienvenue !
-
 ### Description du projet et des données utilisées :
 Nous proposerons et évaluerons des requêtes SPARQL fédérées, afin de pouvoir interroger des bases de données multi-sites et limiter la centralisation des données. Dans ce projet les données sont stockées en RDF et incluent des observations cliniques, des IRM et des données génomiques sur des patients atteints d’anévrismes intracrâniens. 
-
-### Résultats attendus :
-- Construction de plusieurs graphes de connaissance (un par jeu de donnée)
-- Identification des ontologies nécessaires
-- Identifier des questions biologiques pertinentes
-- Déployer 1 endpoint SPARQL par type de données 
-- Exécuter et évaluer la performance et les résultats des requêtes SPARQL fédérées (avec askOmics et/ou autre moteur de requête). 
 
 ## [Data about data](data-about-data.html)
 
 ### Personne contact :
 Alban Gaignard, , Audrey Bihouée, Camille Maumet, Sofia Strubbia
 
-### Participants :
-Chaque collaboration est la bienvenue !
-
 ### Description du projet et des données utilisées :
-Ce projét est autour de la découvrabilité des données. L'objectif est de répondre aux questions des chercheurs qui souhaitent faire connaître les informations relatives à leurs jeux de données sans pour autant partager les données elles-mêmes. Comment décrire les échantillons ? Quelles informations partager ? Comment indexer ces données ? De même, des questions similaires peuvent se présenter aux experts en science du numérique au moment de sélectionner ou réutiliser un jeu de données. 
+Ce projét est autour de la découvrabilité des données. L'objectif est de répondre aux questions des chercheurs qui souhaitent faire connaître les informations relatives à leurs jeux de données sans pour autant partager les données elles-mêmes. Comment décrire les échantillons ? Quelles informations partager ? Comment indexer ces données ? De même, des questions similaires peuvent se présenter aux experts en science du numérique au moment de sélectionner ou réutiliser un jeu de données.
 
-### Résultats attendus :
-- Engager une discussion sur l’importance des métadonnées (quoi inclure et comment) 
-- Produire une liste de standards “suffisants”
-- Recenser les ontologies existantes pour définir la provenance et la nature d’un échantillon
+## [M2A (Metabolights to AuReMe)](M2A.md)
+
+### Personne contact
+Gabriel MARKOV (GitHub: gabrielmarkov)
+
+### Description du projet et des données utilisées
+Les réseaux métaboliques à l'échelle du génome (RMEG) représentent l'ensemble des connaissances sur le métabolisme d'une espèce donnée. Ils sont pour l'essentiel construits sur la base d'informations génomiques, mais peuvent être enrichis par des données métabolomiques. Toutefois, l'interopérabilité entre ces deux types de données est limitée par le développement inégal des bases de données métabolomiques par espèces par rapport aux bases de données de séquences protéiques. Par exemple, la base de données MetaboLights (infrastucture ELIXIR) propose de mettre à disposition ce type de données [doi: 10.1093/gigascience/gix062](http://doi:10.1093/gigascience/gix062), mais son utilisation reste limitée du fait de la barrière d'entrée élevée pour les nouveaux utilisateurs, alors même que les données correspondantes ont parfois été compilées. C'est le cas pour plusieurs espèces de macroalgues, pour lesquelles des RMEGs ont été reconstruits récemment: l'algue rouge Chondrus crispus [doi: 10.1016/j.isci.2020.100849](https://pubmed.ncbi.nlm.nih.gov/32058961/) et les algues brunes Cladosiphon okamuranus et Saccharina japonica [doi:10.3390/antiox8110564](https://doi:10.3390/antiox8110564).
+L'objectif du projet sera de finaliser la soumission de ces données dans Metabolights et de réfléchir à la meilleure manière de mettre à jour cette information dans les RMEGs correspondants disponibles sur [http://aureme.genouest.org/wiki.html](http://aureme.genouest.org/wiki.html).
 
   
 # Pré-programme 
