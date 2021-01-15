@@ -32,12 +32,15 @@ D'autres espaces seront également à votre disposition :
 
 <img align="right" width="300" src="image_folder/projets.jpeg">
 
-|**Titre** |**Personne contact** |
+
+|Titre|Personne contact|
+| ------------- | ------------- |
 |[GenFlow](GenFlow.html)|Thomas Darde|
 |[Humess](Humess.html)|Philippe Bordron|
 |[Adipodata, an integrative view ?](Adipodata.html)|Isabelle Hue|
 |[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron,Camille Maumet|
 |[Data about data](data-about-data.html)|Alban Gaignard, Audrey Bihouée, Sofia Strubbia|
+
 
 ## [GenFlow](GenFlow.html)
 
