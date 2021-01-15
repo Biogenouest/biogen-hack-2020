@@ -10,8 +10,8 @@ Bien-être du cheval de sport : recherche d'une signature transcriptomique du ni
 ## Description du projet et des données utilisées
 L'étude concerne 18 chevaux de sport, 9 chevaux non agressifs et 9 chevaux agressifs. Chaque cheval est caractérisé par un score d'agressivité. L'ARN a été extrait à partir du sang total afin de réaliser une analyse transcriptomique. Le but du projet est d'identifier les gènes marqueurs de l'agressivité chez le cheval ainsi que les voies métaboliques dans lesquelles ils sont impliqués.
 
-#### Données accessibles via le portail DataINRAe : [https://doi.org/10.15454/IO9XF2](https://doi.org/10.15454/IO9XF2)
-  ### Données non publiées => merci de ne pas utiliser ces données en dehors du hackathon
+**Données accessibles via le portail DataINRAe** : [https://doi.org/10.15454/IO9XF2](https://doi.org/10.15454/IO9XF2)
+### Données non publiées => merci de ne pas utiliser ces données en dehors du hackathon
 
 **Données phénotypiques** => [pData_MA2025_Agress.csv](https://doi.org/10.15454/IO9XF2)
 - get = échantillon
@@ -25,18 +25,16 @@ L'étude concerne 18 chevaux de sport, 9 chevaux non agressifs et 9 chevaux agre
 Working Set = suppression des arrays et des valeurs de mauvaise qualité, suppression des gènes non exprimés, correction pour les biais entre les arrays.
 
 **Analyses réalisées:** 
-- 1. Analyse différentielle Ag.High vs Ag.Low
+- 1 Analyse différentielle Ag.High vs Ag.Low
 Analyse réalisée avec R (package limma, fonction lmFit) => 0 sondes DE
-
-- 2. Analyse de corrélation entre données phénotypiques et transcriptomiques
+- 2 Analyse de corrélation entre données phénotypiques et transcriptomiques
 Analyse sPLS-DA réalisée avec R (package mixOmics, fonction splsda) => 326 sondes discriminantes (critères de sélection : VIP>1, Freq >0.50) => 272 gènes discriminants
-
-- 3. Recherche des voies de signalisation
+- 3 Recherche des voies de signalisation
 Analyse réalisée avec :
-  - a. IPA 
+  - a IPA 
 => 1er canonical pathway : NF-kB / Regulator Effects : IL12, Interferon alpha, TNF / Network autour de NF-kB
 => Voie métabolique majeure : l'inflammation
-  - b. Enrichr
+  - b Enrichr
 L'inflammation est retrouvée dans les bases de données BioCarta 2016 et NCI-Nature 2016
 
 ## Résultats attendus
