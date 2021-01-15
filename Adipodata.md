@@ -39,4 +39,9 @@ bioinfo pour les comparaisons entre espèces: séquences, structures protéiques
 ## Outils - logiciels - méthodes
 Toute proposition est la bienvenue pour construire ça ensemble !
 
+## Liens outils
+- [https://bigd.big.ac.cn/search/?dbId=gsa&q=CRA002353](https://bigd.big.ac.cn/search/?dbId=gsa&q=CRA002353)
+- [https://doi.org/10.1021/acs.jafc.8b04243](https://doi.org/10.1021/acs.jafc.8b04243)
+- [https://doi.org/10.1007/s00018-019-03256-5](https://doi.org/10.1007/s00018-019-03256-5)
+
 #### Données partagées en libre accès
