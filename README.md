@@ -23,7 +23,7 @@ D'autres espaces seront également à votre disposition :
 # Sommaire 
 - [Mini-projets](#Mini-projets)
 - [Pré-programme](#Pré-programme)
-- [Informations utiles](#(Informations-utiles)
+- [Informations utiles](#Informations-utiles)
 - [Organisateurs](#Organisateurs)
 
 # Mini-projets
