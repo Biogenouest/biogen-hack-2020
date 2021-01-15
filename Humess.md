@@ -38,4 +38,7 @@ Statistique, représentation de l'information, web semantique, data sciences, bi
 ## Outils - logiciels - méthodes
 miniconda/anaconda, R, python 
 
+## Liens outils
+
+
 #### Données partagées en accès restraint
