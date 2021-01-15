@@ -38,7 +38,7 @@ D'autres espaces seront également à votre disposition :
 |[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron,Camille Maumet|
 |[Data about data](data-about-data.html)|Alban Gaignard, Audrey Bihouée, Sofia Strubbia|
 |[M2A (Metabolights to AuReMe)](M2A.md)|Gabriel MARKOV|
-|[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre-chev.md)|(Aline FOURY)|
+|[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre-chev.md)|Aline FOURY|
 
 
 ## [GenFlow](GenFlow.html)
