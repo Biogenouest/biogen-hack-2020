@@ -26,4 +26,7 @@ Génomique; Imagerie; Ontologies; Bases de données; Web sémantique
 ## Outils - logiciels - méthodes
 SPARQL - RDF - Python
 
+## Liens utiles
+
+
 #### Données partagées en accès libre pour les données simulées.
