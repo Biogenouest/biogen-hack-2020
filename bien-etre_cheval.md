@@ -33,7 +33,7 @@ Analyse sPLS-DA réalisée avec R (package mixOmics, fonction splsda) => 326 son
 
 - 3. Recherche des voies de signalisation
 Analyse réalisée avec :
-  - a. IPA 
+  a. IPA 
 => 1er canonical pathway : NF-kB / Regulator Effects : IL12, Interferon alpha, TNF / Network autour de NF-kB
 => Voie métabolique majeure : l'inflammation
   - b. Enrichr
