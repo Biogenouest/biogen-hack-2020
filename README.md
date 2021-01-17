@@ -47,7 +47,7 @@ D'autres espaces seront également à votre disposition :
 ### Personne contact : 
 Thomas Darde
 
-### Description du projet et des données utilisées :
+### Description du projet :
 Développement d’un espace de dépôt pour les workflows utilisés lors de l’analyse de données génomique issus de publications scientifique. Chaque workflow est extrait automatiquement de la publication quand c’est possible (text minning) ou les utilisateurs peuvent déployer leurs propres workflows via une interface dédiée. Toute information déposée sur cet espace doit être caractérisée par l’utilisation de vocabulaire contrôlé.
 
 
@@ -57,7 +57,7 @@ Développement d’un espace de dépôt pour les workflows utilisés lors de l�
 Philippe Bordron
 
 
-### Description du projet et des données utilisées :
+### Description du projet :
 Humess est un projet de reconstruction à façon de réseaux métaboliques humains fontionnels à partir de données d’expression de 3’SRP ainsi que de leur analyse à l’aide d’une approche de corrélation de flux métabolique.
 
 À partir de réseaux métaboliques fonctionnels, les analyses en corrélation de flux métabolique produises de grandes matrice de corrélation entre réactions (environ 5000x5000 en moyenne sur un réseau humain). Ces matrices donne une sur-approximation de la dynamique métabolique existant dans les réseaux étudiés. Dans le cadre de ce hackathon, je souhaite travailler sur les représentations et l’accessibilité des obtenus.
@@ -68,7 +68,7 @@ Humess est un projet de reconstruction à façon de réseaux métaboliques humai
 ### Personne contact :
 Isabelle Hue
 
-### Description du projet et des données utilisées :
+### Description du projet  :
 Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 
 - **(i)** sgle-cell RNAseq chicken breast muscle => sous populations cellulaires https://bigd.big.ac.cn/search/?dbId=gsa&q=CRA002353
@@ -85,7 +85,7 @@ Analyse in silico de données publiées sur les adipocytes de diverses espèces:
 ### Personne contact :
 Olivier Dameron, Alban Gaignard, Camille Maumet
 
-### Description du projet et des données utilisées :
+### Description du projet :
 Nous proposerons et évaluerons des requêtes SPARQL fédérées, afin de pouvoir interroger des bases de données multi-sites et limiter la centralisation des données. Dans ce projet les données sont stockées en RDF et incluent des observations cliniques, des IRM et des données génomiques sur des patients atteints d’anévrismes intracrâniens. 
 
 
@@ -94,7 +94,7 @@ Nous proposerons et évaluerons des requêtes SPARQL fédérées, afin de pouvoi
 ### Personne contact :
 Alban Gaignard, , Audrey Bihouée, Camille Maumet, Sofia Strubbia
 
-### Description du projet et des données utilisées :
+### Description du projet :
 Ce projét est autour de la découvrabilité des données. L'objectif est de répondre aux questions des chercheurs qui souhaitent faire connaître les informations relatives à leurs jeux de données sans pour autant partager les données elles-mêmes. Comment décrire les échantillons ? Quelles informations partager ? Comment indexer ces données ? De même, des questions similaires peuvent se présenter aux experts en science du numérique au moment de sélectionner ou réutiliser un jeu de données.
 
 
@@ -103,7 +103,7 @@ Ce projét est autour de la découvrabilité des données. L'objectif est de ré
 ### Personne contact
 Gabriel MARKOV (GitHub: gabrielmarkov)
 
-### Description du projet et des données utilisées
+### Description du projet :
 Les réseaux métaboliques à l'échelle du génome (RMEG) représentent l'ensemble des connaissances sur le métabolisme d'une espèce donnée. Ils sont pour l'essentiel construits sur la base d'informations génomiques, mais peuvent être enrichis par des données métabolomiques. Toutefois, l'interopérabilité entre ces deux types de données est limitée par le développement inégal des bases de données métabolomiques par espèces par rapport aux bases de données de séquences protéiques. Par exemple, la base de données MetaboLights (infrastucture ELIXIR) propose de mettre à disposition ce type de données [doi: 10.1093/gigascience/gix062](http://doi:10.1093/gigascience/gix062), mais son utilisation reste limitée du fait de la barrière d'entrée élevée pour les nouveaux utilisateurs, alors même que les données correspondantes ont parfois été compilées. C'est le cas pour plusieurs espèces de macroalgues, pour lesquelles des RMEGs ont été reconstruits récemment: l'algue rouge Chondrus crispus [doi: 10.1016/j.isci.2020.100849](https://pubmed.ncbi.nlm.nih.gov/32058961/) et les algues brunes Cladosiphon okamuranus et Saccharina japonica [doi:10.3390/antiox8110564](https://doi:10.3390/antiox8110564).
 L'objectif du projet sera de finaliser la soumission de ces données dans Metabolights et de réfléchir à la meilleure manière de mettre à jour cette information dans les RMEGs correspondants disponibles sur [http://aureme.genouest.org/wiki.html](http://aureme.genouest.org/wiki.html).
 
@@ -112,7 +112,7 @@ L'objectif du projet sera de finaliser la soumission de ces données dans Metabo
 ### Personne contact
 Aline FOURY
 
-### Description du projet et des données utilisées
+### Description du projet :
 L'étude concerne 18 chevaux de sport, 9 chevaux non agressifs et 9 chevaux agressifs. Chaque cheval est caractérisé par un score d'agressivité. L'ARN a été extrait à partir du sang total afin de réaliser une analyse transcriptomique. Le but du projet est d'identifier les gènes marqueurs de l'agressivité chez le cheval ainsi que les voies métaboliques dans lesquelles ils sont impliqués.
 
 ## [Détection du Norovirus en France](norovrus.html)
@@ -120,8 +120,8 @@ L'étude concerne 18 chevaux de sport, 9 chevaux non agressifs et 9 chevaux agre
 ### Personne contact
 Alban Besnard
 
-### Description du projet et des données utilisées
-
+### Description du projet :
+L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite humaine). Nous avons des données provenant d'échantillons différents: Huîtres / eaux usées / Humains. Ces données sont assez diverses et vont de la séquence complète d'un génome identifié à la simple détection présence/absence du virus.L'objectif est de construire une base de données permettant de l'interroger pour récupérer toutes les analyses faites sur un échantillon, sur une période temporelle et/ou géographique.
 
   
 # Pré-programme 
