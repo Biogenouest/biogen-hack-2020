@@ -8,8 +8,7 @@ Chaque collaboration est la bienvenue !
 Détection du Norovirus en France
 
 ## Description du projet et des données utilisées
-
-
+L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite humaine). Nous avons des données provenant d'échantillons différents: Huîtres / eaux usées / Humains. Ces données sont assez diverses et vont de la séquence complète d'un génome identifié à la simple détection présence/absence du virus.L'objectif est de construire une base de données permettant de l'interroger pour récupérer toutes les analyses faites sur un échantillon, sur une période temporelle et/ou géographique.
 
 Les données sont actuellement plusieurs tableaux excel.
 Un tableau excel qui donne les metadonnées (date/ lieu de prélevement/nature/projet ...) de chaque échantillon
