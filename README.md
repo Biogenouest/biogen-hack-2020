@@ -148,7 +148,7 @@ L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite 
 <br/> 16h - 17h : Conclusions
 
 # Informations utiles 
-Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !  
+Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer ! [Welcome to gather](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
 
 Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
 
