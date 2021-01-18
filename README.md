@@ -153,6 +153,7 @@ Ce logiciel peut être utilisé sur n'importe quel ordinateur (portable, de bure
 Il ne prend en charge que Google Chrome et Firefox. 
 
 Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
+Nous recommandons l'utilisation d'un casque (avec microphone) ou d'écouteurs pour limiter les bruits de fond.
 
 Cet outil n'a pas d'exigences particulières quant à la vitesse du réseau ou de l'ordinateur, mais les spécifications suivantes sont recommandées pour une expérience idéale :
 
