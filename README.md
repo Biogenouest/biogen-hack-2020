@@ -148,9 +148,19 @@ L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite 
 <br/> 16h - 17h : Conclusions
 
 # Informations utiles 
-Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer ! [Welcome to gather](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
-
+Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !   
+Ce logiciel peut être utilisé sur n'importe quel ordinateur (portable, de bureau) sous n'importe quel système d'exploitation (Windows, Mac OS, Linux). 
+Il ne prend en charge que Google Chrome et Firefox. 
 Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
+
+Cet outil n'a pas d'exigences particulières quant à la vitesse du réseau ou de l'ordinateur, mais les spécifications suivantes sont recommandées pour une expérience idéale :
+
+3Mbps en bas/1Mbps en haut
+CPU 2.4ghz dual core
+8gb RAM
+
+[Welcome to gather](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
+
 
 
 # Organisateurs
