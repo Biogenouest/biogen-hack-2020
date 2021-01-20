@@ -5,7 +5,7 @@ Adrien FOUCAL
 Chaque collaboration est la bienvenue !
 
 ## Titre
-Federated queries on imaging and genomics data
+Full-ChipSeq
 
 ## Description du projet et des données utilisées
 Un pipeline snakemake pour traiter les données ChIP-seq humaines sur une machine linux.
