@@ -123,7 +123,26 @@ Alban Besnard
 ### Description du projet :
 L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite humaine). Nous avons des données provenant d'échantillons différents: Huîtres / eaux usées / Humains. Ces données sont assez diverses et vont de la séquence complète d'un génome identifié à la simple détection présence/absence du virus.L'objectif est de construire une base de données permettant de l'interroger pour récupérer toutes les analyses faites sur un échantillon, sur une période temporelle et/ou géographique.
 
-  
+## [Full-ChipSeq](full-chipseq.html)
+
+### Personne contact
+Adrien Foucal
+
+### Description du projet et des données utilisées
+Un pipeline snakemake pour traiter les données ChIP-seq humaines sur une machine linux.
+Ce pipeline vous permettra de faire ce qui suit :
+
+- Contrôle de la qualité de vos échantillons
+- Alignement sur les peak-calling
+- Génération d'un hub pour visualiser les échantillons sur le [navigateur de l'UCSC](https://genome.ucsc.edu/)
+- Annotation fonctinoelle
+- Motif finding (TODO)
+
+Ce pipeline est basé sur le [pyflow-ChIP-seq développé par Ming Tang](https://github.com/crazyhottommy/pyflow-ChIPseq). J'ai reconditionné la plupart des étapes, ajouté et supprimé quelques-unes, créé de nouveaux environnements de conda et regroupé tous les résultats de contrôle de qualité dans multiQC.
+Ce pipeline devrait être facile à installer avec snakemake et conda présents sur le système. Pour l'instant, il fonctionne sur un cluster de sge.
+
+
+ 
 # Pré-programme 
 
 **Lundi 25 (9h30 - 16h30)** 
