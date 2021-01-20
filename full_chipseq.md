@@ -34,6 +34,6 @@ Du bioinformaticien expérimenté au biologiste qui s'essaye à la ligne de comm
 Snakemake et Conda
 
 ## Liens utiles
-[https://gitlab.univ-nantes.fr/foucal-a/full-chipseq[(https://gitlab.univ-nantes.fr/foucal-a/full-chipseq)
+[https://gitlab.univ-nantes.fr/foucal-a/full-chipseq](https://gitlab.univ-nantes.fr/foucal-a/full-chipseq)
 
 #### Données partagées en libre accès.
