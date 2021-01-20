@@ -148,22 +148,21 @@ L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite 
 <br/> 16h - 17h : Conclusions
 
 # Informations utiles 
-Nous allons utiliser [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !   
+Nous allons utiliser l'éspace virtuel [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !   
+
 Ce logiciel peut être utilisé sur n'importe quel ordinateur (portable, de bureau) sous n'importe quel système d'exploitation (Windows, Mac OS, Linux). 
-Il ne prend en charge que Google Chrome et Firefox. 
+Il ne prend en charge que Chrome et Firefox. [Introduction à l'outil](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
 
 Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
 Nous recommandons l'utilisation d'un casque (avec microphone) ou d'écouteurs pour limiter les bruits de fond.
 
-Cet outil n'a pas d'exigences particulières quant à la vitesse du réseau ou de l'ordinateur, mais les spécifications suivantes sont recommandées pour une expérience idéale :
+Cet outil n'a pas d'exigences particulières quant à la vitesse du réseau ou de l'ordinateur, mais les spécifications suivantes sont recommandées :
 
-- 3Mbps en bas/1Mbps en haut
+- 3Mbps down/1Mbps up
 - CPU 2.4ghz dual core
 - 8gb RAM
 
-[Welcome to gather](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
-
-
+L’équipe MoDaL sera là pour vous accueillir, nous seront reconnaissables par notre casquette jaune ;-)  
 
 # Organisateurs
 
