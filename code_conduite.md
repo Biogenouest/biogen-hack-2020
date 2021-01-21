@@ -31,7 +31,7 @@ Nous demandons aux participants respecter ces règles sur tous les lieux et pend
 
 # Signalement
 
-Si quelqu'un vous fait sentir en danger ou vous harcéle, veuillez le signaler dès que possible aux organisateurs de l'événement ou à [modal-interne@inria.fr](modal-interne@inria.fr). Le harcèlement et les autres violations du code de conduite réduisent la valeur de notre événement. 
+Si quelqu'un vous fait sentir en danger ou vous harcèle, veuillez le signaler dès que possible aux organisateurs de l'événement ou à [modal-interne@inria.fr](modal-interne@inria.fr). Le harcèlement et les autres violations du code de conduite réduisent la valeur de notre événement. 
 Nous voulons que vous puissiez plainement profiter du hackathon. Ce sont les personnes comme vous qui font de notre événement un lieu meilleur.
 
 Vous pouvez faire un signalement soit avec votre email personnel, soit en utilisant un email anonyme.
