@@ -59,15 +59,15 @@ D'autres espaces seront également à votre disposition :
 
 **Lundi 1 (10h - 16h30)**
 
-10h - 10h15 : Bonjour - questions ? 
-<br/> 10h15 - 12h : Travail en groupe sur les mini-projets 
+9h30 - 10h : Bonjour - questions ? 
+<br/> 10h - 12h : Travail en groupe sur les mini-projets 
 <br/> 11h - 11h30 : (facultatif) tutoriel
 <br/> 12h-14h : Pause déjeuner
 
 <br/> 14h - 14h30 : Exposés flash flash 
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
 <br/> 15h - 16h   : Expo résultats obtenus par groupe 
-<br/> 16h - 17h : Conclusions
+<br/> 16h - 16h30 : Conclusions
 
 # Informations utiles 
 
