@@ -144,11 +144,12 @@ Ce pipeline devrait être facile à installer avec snakemake et conda présents 
 
 
  
-# Pré-programme 
+# Programme 
 
 **Lundi 25 (9h30 - 16h30)** 
 
-9h30-10h :  Introduction
+9h-9h30 : Accueil - découverte espace virtuel
+<br/>9h30-10h :  Introduction
 <br/> 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et travail en groupe sur les mini-projets 
 
 <br/> 14h - 14h30 : Exposés flash flash
@@ -168,21 +169,28 @@ Ce pipeline devrait être facile à installer avec snakemake et conda présents 
 <br/> 16h - 17h : Conclusions
 
 # Informations utiles 
-Nous allons utiliser l'éspace virtuel [gather.town](https://gather.town/) comme système visuel, pas de compte à créer !   
 
-Ce logiciel peut être utilisé sur n'importe quel ordinateur (portable, de bureau) sous n'importe quel système d'exploitation (Windows, Mac OS, Linux). 
-Il ne prend en charge que Chrome et Firefox. [Introduction à l'outil](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit)
+L’équipe Modal sera présente dès 9h pour vous accueillir et vous faire découvrir l’espace virtuel où aura lieu le hackathon. 
 
-Assurez-vous que votre caméra et votre microphone fonctionnent correctement !
-Nous recommandons l'utilisation d'un casque (avec microphone) ou d'écouteurs pour limiter les bruits de fond.
+Voici quelques informations importantes : 
 
-Cet outil n'a pas d'exigences particulières quant à la vitesse du réseau ou de l'ordinateur, mais les spécifications suivantes sont recommandées :
+Nous utiliserons la plateforme [gather.town](https://gather.town/), vous n’aurez pas de compte à créer ni de logiciel à télécharger. Gather Town peut être utilisé sur n'importe quel ordinateur (portable, de bureau) sous n'importe quel système d'exploitation (Windows, Mac OS, Linux). 
 
-- 3Mbps down/1Mbps up
-- CPU 2.4ghz dual core
-- 8gb RAM
+Il ne prend en charge que les navigateurs Chrome et Firefox. [(Introduction à l’outil)](https://docs.google.com/document/d/1kngaWIQSHlSOfNq6S2s9SLy_o6GvLMmkxcpv4AvuMrc/edit) 
+
+Assurez-vous que votre caméra et votre microphone fonctionnent.
+
+Pour permettre des échanges dans les meilleures conditions possibles, nous recommandons l'utilisation d'un casque (avec microphone) ou d'écouteurs pour limiter les bruits de fond.
 
 L’équipe MoDaL sera là pour vous accueillir, nous seront reconnaissables par notre casquette jaune ;-)  
+
+Les indispensables : 
+- café / thé 
+- ordinateur 
+- votre curiosité et envie de partager !! 
+
+Pour toute question relative à l’événement, n’hésitez pas à nous contacter par e-mail.
+
 
 # Organisateurs
 
