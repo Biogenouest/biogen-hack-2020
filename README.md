@@ -50,6 +50,7 @@ D'autres espaces seront également à votre disposition :
 9h-9h30 : Accueil - découverte espace virtuel
 <br/>9h30-10h :  Introduction
 <br/> 10h-12h :   Présentation de mini projets (2-3 diapos par projet / environ 5 min) et travail en groupe sur les mini-projets 
+<br/> 12h-14h : Pause déjeuner
 
 <br/> 14h - 14h30 : Exposés flash flash
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
@@ -60,7 +61,8 @@ D'autres espaces seront également à votre disposition :
 
 10h - 10h15 : Bonjour - questions ? 
 <br/> 10h15 - 12h : Travail en groupe sur les mini-projets 
-<br/> 11h - 11h30 : (facultatif) tutoriel  
+<br/> 11h - 11h30 : (facultatif) tutoriel
+<br/> 12h-14h : Pause déjeuner
 
 <br/> 14h - 14h30 : Exposés flash flash 
 <br/> 14h30 - 15h : Travail en groupe sur les mini-projets
