@@ -209,3 +209,5 @@ Pour toute question relative à l’événement, n’hésitez pas à nous contac
 |**Anne Siegel**      ![Anne_photo.jpeg](image_folder/Anne_photo.jpeg)|Anne est directrice de recherche au CNRS, et exerce ses recherches dans l’équipe Dyliss au laboratoire IRISA à Rennes. Elle est responsable du département « Gestion des données et connaissances » à l’IRISA et chargée de mission “bioinformatique” au CNRS (INS2I). Elle a obtenu un doctorat en mathématiques avant de s’intéresser aux interfaces entre la biologie et l’informatique en développant des approches symboliques de représentation et d’intégration de connaissances pour analyser des réseaux biologiques à grande-échelle.|
 
 Pour toutes informations complémentaires : [sofia.strubbia@univ-nantes.fr](sofia.strubbia@univ-nantes.fr)
+
+[CODE DE CONDUITE](conde_conduite.html)
