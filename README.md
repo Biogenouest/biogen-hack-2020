@@ -192,7 +192,7 @@ Les indispensables :
 Pour toute question relative à l’événement, n’hésitez pas à nous contacter par e-mail.
 
 
-[CODE DE CONDUITE](conde_conduite.html)
+[CODE DE CONDUITE](code_conduite.html)
 
 
 # Organisateurs
