@@ -192,6 +192,9 @@ Les indispensables :
 Pour toute question relative à l’événement, n’hésitez pas à nous contacter par e-mail.
 
 
+[CODE DE CONDUITE](conde_conduite.html)
+
+
 # Organisateurs
 
 [Projet fédérateur MoDaL](Projet_modal.html)
@@ -210,4 +213,3 @@ Pour toute question relative à l’événement, n’hésitez pas à nous contac
 
 Pour toutes informations complémentaires : [sofia.strubbia@univ-nantes.fr](sofia.strubbia@univ-nantes.fr)
 
-[CODE DE CONDUITE](conde_conduite.html)
