@@ -1,5 +1,5 @@
 ## Personne contact
-Olivier Dameron, Alban Gaignard, Camille Maumet
+Olivier Dameron, Alban Gaignard
 
 ## Participants
 Chaque collaboration est la bienvenue !
