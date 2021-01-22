@@ -8,6 +8,7 @@ Chaque collaboration est la bienvenue !
 Détection du norovirus en France
 
 ## Description du projet et des données utilisées
+L'objectif est d'essayer plusieurs outils pour fusionner des documents excel, pour cela je propose un jeu de données de l'IFREMER.
 L'IFREMER travaille sur le norovirus (pathogène provoquant la gastro-entérite humaine). Nous avons des données provenant d'échantillons différents: Huîtres / eaux usées / Humains. Ces données sont assez diverses et vont de la séquence complète d'un génome identifié à la simple détection présence/absence du virus.L'objectif est de construire une base de données permettant de l'interroger pour récupérer toutes les analyses faites sur un échantillon, sur une période temporelle et/ou géographique.
 
 Les données sont actuellement plusieurs tableaux excel.
@@ -17,7 +18,7 @@ Un tableau excel avec les données concernant les séquençages ADN métabarcodi
 Un tableau excel avec les données concernant les séquençages ADN du génome complet. (Un même échantillon peut avoir plusieurs ligne ici aussi)
 
 ## Résultats attendus
-L'objectif est d'obtenir à une interface (web?) qui permet à l'utilisateur de renseigner une zone géographique, une période de temps ou un numéro d'échantillon et de voir les différents tests de détection réalisés par les laboratoires sur cette zone / laps de temps et s'il existe des souches séquencés (génome complet) ou partiellement séquencés (metabarcoding). Dans ce dernier cas, il serait intéressant de récupérer les séquences.
+L'objectif est d'essayer plusieurs outils pour fusionner ses documents excel et qui permet à l'utilisateur de renseigner une zone géographique, une période de temps ou un numéro d'échantillon et de voir les différents tests de détection réalisés par les laboratoires sur cette zone / laps de temps et s'il existe des souches séquencés (génome complet) ou partiellement séquencés (metabarcoding). Dans ce dernier cas, il serait intéressant de récupérer les séquences.
 
 
 ## État d'avancement du projet : 
