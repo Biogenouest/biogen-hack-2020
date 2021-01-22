@@ -1,5 +1,5 @@
 ## Personne contact
-Alban Gaignard, , Audrey Bihouée, Camille Maumet
+Camille Maumet
 
 ## Participants
 Chaque collaboration est la bienvenue !
