@@ -11,10 +11,10 @@ Full-ChipSeq
 Un pipeline snakemake pour traiter les données ChIP-seq humaines sur une machine linux.
 Ce pipeline vous permettra de faire ce qui suit :
 
+- Alignement et peak-calling
 - Contrôle de la qualité de vos échantillons
-- Alignement sur les peak-calling
 - Génération d'un hub pour visualiser les échantillons sur le [navigateur de l'UCSC](https://genome.ucsc.edu/)
-- Annotation fonctinoelle
+- Annotation fonctinelle
 - Motif finding (TODO)
 
 Ce pipeline est basé sur le [pyflow-ChIP-seq développé par Ming Tang](https://github.com/crazyhottommy/pyflow-ChIPseq). J'ai reconditionné la plupart des étapes, ajouté et supprimé quelques-unes, créé de nouveaux environnements de conda et regroupé tous les résultats de contrôle de qualité dans multiQC.
