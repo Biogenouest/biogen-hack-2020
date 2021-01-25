@@ -35,7 +35,7 @@ D'autres espaces seront également à votre disposition :
 |[GenFlow](GenFlow.html)|Thomas Darde|
 |[Humess](Humess.html)|Philippe Bordron|
 |[Adipodata, an integrative view ?](Adipodata.html)|Isabelle Hue|
-|[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron|
+|[Federated queries on imaging and genomics data](fed-queries.html)|Olivier Dameron, Alban Gaignard|
 |[Data about data](data-about-data.html)|Camille Maumet, Audrey Bihouée|
 |[M2A (Metabolights to AuReMe)](M2A.html)|Gabriel MARKOV|
 |[Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité ](bien-etre_cheval.html)|Aline FOURY|
