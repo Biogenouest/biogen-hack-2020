@@ -43,9 +43,11 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 #### Outils / bases de données :
 - [Metabolights](https://www.ebi.ac.uk/metabolights/species)
 - [ChEBI](https://www.ebi.ac.uk/chebi/init.do)
+- [BioModels](https://www.ebi.ac.uk/biomodels/)
 - Liste des réseaux métabolomiques disponibles dur [Aureme](http://gem-aureme.genouest.org/)
-  - Chondrus crispus
+  - Chondrus crispus, [version publiée du réseau soumise à Biomodels:](https://www.ebi.ac.uk/biomodels/MODEL2101250001)
   - Cladosiphon okamuranus
+  - Saccharina latissima
 - [Exemple de pull request sur le Github de CheBI]https://github.com/ebi-chebi/ChEBI/issues/3727)
 
 
