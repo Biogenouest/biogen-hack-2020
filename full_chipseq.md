@@ -43,7 +43,7 @@ Snakemake et Conda
 |---|---|
 |**Objectifs**|Définir une approche pour intégrer des données de séquencçage Chip-Seq hétérogène : Single vs Paired end, Chip-seq vs Cut&run|
 |**Premiers résultats**|Feuille de route : L’outil snakemake rend ce genre de gestion possible: Utilisation de fonctions pour la sélection des échantillons en input et règles conditionnelles à tester.|
-|**Difficultés techniques**|prise en main des pipelines. Travail en amont sur les fichiers de configuration et les données tests|
+|**Difficultés techniques**|Prise en main des pipelines. Travail en amont sur les fichiers de configuration et les données tests|
 
 
 #### Données partagées en libre accès.
