@@ -1,8 +1,10 @@
 ## Personne contact
-Gabriel MARKOV [Github:gabrielmarkov](https://github.com/gabrielmarkov)
+Gabriel MARKOV (GitHub: gabrielmarkov)
 
 ## Participants
-Chaque collaboration est la bienvenue !
+- Erwan Corre
+- Jeanne Got
+- Philippe Bordron
 
 ## Titre
 M2A (Metabolights to AuReMe)
@@ -28,14 +30,34 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 
 
 ## Liens outils
+
+#### Bibliogrpahie :
 - [Automated assembly of species metabolomes through data submission into a public repository](https://academic.oup.com/gigascience/article/6/8/gix062/3979349) 
 - [Inferring Biochemical Reactions and Metabolite Structures to Understand Metabolic Pathway Drift](https://pubmed.ncbi.nlm.nih.gov/32058961/)
   - [Matériel supplémentaire, Table S1](https://www.sciencedirect.com/science/article/pii/S2589004220300328#tbl1)
   - [Tables S2](https://www.sciencedirect.com/science/article/pii/S2589004220300328#tbl2)
   - [Table S3](https://www.sciencedirect.com/science/article/pii/S2589004220300328#tbl3)
 - [Genome–Scale Metabolic Networks Shed Light on the Carotenoid Biosynthesis Pathway in the Brown Algae Saccharina japonica and Cladosiphon okamuranus](https://www.mdpi.com/2076-3921/8/11/564)
-- [Metabolights](https://www.ebi.ac.uk/metabolights/species)
 - [Traceability, reproducibility and wiki-exploration for “à-la-carte” reconstructions of genome-scale metabolic models](https://doi.org/10.1371/journal.pcbi.1006146)
+
+#### Outils / bases de données :
+- [Metabolights](https://www.ebi.ac.uk/metabolights/species)
+- [ChEBI](https://www.ebi.ac.uk/chebi/init.do)
+- Liste des réseaux métabolomiques disponibles dur [Aureme](http://gem-aureme.genouest.org/)
+  - Chondrus crispus
+  - Cladosiphon okamuranus
+- [Exemple de pull request sur le Github de CheBI]https://github.com/ebi-chebi/ChEBI/issues/3727)
+
+
+
+
+## Rapport d'avancement J1
+
+|---|:---|
+|**Objectifs**|Réfléchir à l’interopérabilité entre réseaux métaboliques à l’échelle du génome et bases de données métabolomiques (Metabolights, Chebi)
+|
+|**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe.|
+|**Difficultés techniques**|Assemblage de métabolomes par espèce à partir des données renseignées dans Chebi|
 
 
 #### Données partagées en libre accès
