@@ -1,10 +1,10 @@
 ## Personne contact
-[Gabriel Markov] (https://github.com/gabrielmarkov)
+[Gabriel Markov](https://github.com/gabrielmarkov)
 
 ## Participants
 - Erwan Corre
-- [Jeanne Got] (https://github.com/Jeanne-Got)
-- [Philippe Bordron] (https://github.com/pbordron)
+- [Jeanne Got](https://github.com/Jeanne-Got)
+- [Philippe Bordron](https://github.com/pbordron)
 
 ## Titre
 M2A (Metabolights to AuReMe)
