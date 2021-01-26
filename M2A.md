@@ -53,7 +53,8 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 
 ## Rapport d'avancement J1
 
-|---|:---|
+| | |
+|---|---|
 |**Objectifs**|Réfléchir à l’interopérabilité entre réseaux métaboliques à l’échelle du génome et bases de données métabolomiques (Metabolights, Chebi)
 |
 |**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe.|
