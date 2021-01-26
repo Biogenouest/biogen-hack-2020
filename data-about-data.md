@@ -34,7 +34,10 @@ Biologie; Santé; Ontologies
 Registres d’ontologies (BioPortal, ontobee , AberOWL, BioSamples), éventuellement OWL/RDF
 
 ## Liens outils
-[BIDS](https://bids.neuroimaging.io/)
+- [BIDS](https://bids.neuroimaging.io/)
+- [Biosample](https://www.ebi.ac.uk/biosamples/ )
+- [BioSchemas](http://bioschemas.org/]
+- [Bioportal](https://bioportal.bioontology.org/)
 
 ## Rapport d'avancement J1
 
