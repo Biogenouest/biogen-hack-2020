@@ -42,10 +42,8 @@ Registres d’ontologies (BioPortal, ontobee , AberOWL, BioSamples), éventuelle
 |---|---|
 |**Objectifs**|Division en 3 sous projets : 1. Modélisation des échantillons : revue des modèles existants et de leur utilisation en biologie/santé. 2.Discussion structuration des données d’un projet pour communication interne (plate-forme). 3. Amélioration d’import + export en BIDS dans Shanoir|
 |**Premiers résultats**| |
-|1.|Discussion sur les pratiques (sémantique dans les noms de fichiers …) et l’existant (Gene Ontology, etc.). / Exploration de l’ontologie BioSamples. 
-Exploration des ontologies légères BioSchemas (BioSample, Study, Phenotypes).|
-|2.|Discussion sur les pratiques internes des plate-formes. / Description des formats de données brutes. / Discussion du cycle de vie d’un projet : acquisition / analyse / publication. / Echange sur le partage de données dans les communautés (partage obligatoire des données au moment de la publication dans une base publique)
-Echange sur l’utilité de /partager connaître la “richesse” des informations disponibles pour une meilleure utilisation des données existantes / la mise en place de collaborations.|
+|1.|Discussion sur les pratiques (sémantique dans les noms de fichiers …) et l’existant (Gene Ontology, etc.). / Exploration de l’ontologie BioSamples. Exploration des ontologies légères BioSchemas (BioSample, Study, Phenotypes).|
+|2.|Discussion sur les pratiques internes des plate-formes. / Description des formats de données brutes. / Discussion du cycle de vie d’un projet : acquisition / analyse / publication. / Echange sur le partage de données dans les communautés (partage obligatoire des données au moment de la publication dans une base publique). Echange sur l’utilité de /partager connaître la “richesse” des informations disponibles pour une meilleure utilisation des données existantes / la mise en place de collaborations.|
 |**Difficultés techniques**|Se mettre d’accord sur les objectifs|
 
 
