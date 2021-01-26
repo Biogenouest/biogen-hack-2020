@@ -2,7 +2,7 @@
 Aline FOURY
 
 ## Participants
-Chaque collaboration est la bienvenue !
+Emile MARDOC
 
 ## Titre
 Bien-être du cheval de sport : recherche d'une signature transcriptomique du niveau d'agressivité 
@@ -56,5 +56,15 @@ logiciel R
 
 ## Liens outils
 
+
+## Rapport d'avancement J1
+
+| | |
+|---|---|
+|**Objectifs**|Identifier les gènes différentiellement exprimés en fonction du phénotype (ana lyse différentielle ou analyse de corrélation)|
+|**Premiers résultats**|Analyses différentielles : 
+- 1. meilleure compréhension du test utilisé (contrastes)
+- 2. autres tests possibles (variance, moyenne, médiane, rangs) + effet multidimensionnel (BH ou autre?)|
+|**Difficultés techniques**|Quel test appliquer sur un jeu de données avec peu d’échantillons (n=18)  ?|
 
 #### Ces données ne peuvent pas être partagées
