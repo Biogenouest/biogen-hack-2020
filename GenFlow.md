@@ -2,7 +2,9 @@
 Thomas Darde - BioMas
 
 ## Participants
-François Moreews
+- François Moreews
+- Alban Besnard
+- Camille Juigné
 
 ## Titre
 GenFlow
@@ -27,5 +29,24 @@ Génomique; Statistique; Ontologies; Dev web; Workflow
 Python; React; R; Docker; SnakeMake; Conda; NextFLow; Galaxy
 
 ## Liens outils
+
+[Git du projet](https://github.com/BioMAs/genflow-biogen-hack-2020)
+
+- [https://workflowhub.eu/workflows/3](https://workflowhub.eu/workflows/3)
+- [https://www.eclipse.org/atl/atlTransformations/](https://www.eclipse.org/atl/atlTransformations/)
+- [https://www.atlanmod.org/](https://www.atlanmod.org/)
+- [https://naomod.github.io/](https://naomod.github.io/)
+- [https://www.eclipse.org/atl/atlTransformations/](https://www.eclipse.org/atl/atlTransformations/)
+- [https://pax2graphml.genouest.org/](https://pax2graphml.genouest.org/)
+- [https://graphviz.org/doc/info/lang.html](https://graphviz.org/doc/info/lang.html) 
+
+
+## Rapport d'avancement J1
+
+| | |
+|---|---|
+|**Objectifs**||
+|**Premiers résultats**||
+|**Difficultés techniques**||
 
 #### Données partagées en libre accès
