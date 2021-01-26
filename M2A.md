@@ -1,10 +1,10 @@
 ## Personne contact
-Gabriel MARKOV (GitHub: gabrielmarkov)
+[Gabriel Markov] (https://github.com/gabrielmarkov)
 
 ## Participants
 - Erwan Corre
-- Jeanne Got
-- Philippe Bordron
+- [Jeanne Got] (https://github.com/Jeanne-Got)
+- [Philippe Bordron] (https://github.com/pbordron)
 
 ## Titre
 M2A (Metabolights to AuReMe)
@@ -31,7 +31,7 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 
 ## Liens outils
 
-#### Bibliogrpahie :
+#### Bibliographie :
 - [Automated assembly of species metabolomes through data submission into a public repository](https://academic.oup.com/gigascience/article/6/8/gix062/3979349) 
 - [Inferring Biochemical Reactions and Metabolite Structures to Understand Metabolic Pathway Drift](https://pubmed.ncbi.nlm.nih.gov/32058961/)
   - [Matériel supplémentaire, Table S1](https://www.sciencedirect.com/science/article/pii/S2589004220300328#tbl1)
@@ -45,10 +45,10 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 - [ChEBI](https://www.ebi.ac.uk/chebi/init.do)
 - [BioModels](https://www.ebi.ac.uk/biomodels/)
 - Liste des réseaux métabolomiques disponibles dur [Aureme](http://gem-aureme.genouest.org/)
-  - Chondrus crispus, [version publiée du réseau soumise à Biomodels:](https://www.ebi.ac.uk/biomodels/MODEL2101250001)
+  - Chondrus crispus, [version publiée du réseau soumise à Biomodels](https://www.ebi.ac.uk/biomodels/MODEL2101250001)
   - Cladosiphon okamuranus
   - Saccharina latissima
-- [Exemple de pull request sur le Github de CheBI]https://github.com/ebi-chebi/ChEBI/issues/3727)
+- [Exemple de pull request sur le Github de CheBI](https://github.com/ebi-chebi/ChEBI/issues/3727)
 
 
 
