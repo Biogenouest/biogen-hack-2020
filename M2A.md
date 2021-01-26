@@ -55,9 +55,8 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 
 | | |
 |---|---|
-|**Objectifs**|Réfléchir à l’interopérabilité entre réseaux métaboliques à l’échelle du génome et bases de données métabolomiques (Metabolights, Chebi)
-|
-|**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe.|
+|**Objectifs**|Réfléchir à l’interopérabilité entre réseaux métaboliques à l’échelle du génome et bases de données métabolomiques (Metabolights, Chebi)|
+|**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe|
 |**Difficultés techniques**|Assemblage de métabolomes par espèce à partir des données renseignées dans Chebi|
 
 
