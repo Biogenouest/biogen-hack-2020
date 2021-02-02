@@ -8,6 +8,9 @@ Adrien FOUCAL
 ## Titre
 Full-ChipSeq
 
+[Repository du projet sur GitLab](https://gitlab.univ-nantes.fr/foucal-a/full-chipseq)
+
+
 ## Description du projet et des données utilisées
 Un pipeline snakemake pour traiter les données ChIP-seq humaines sur une machine linux.
 Ce pipeline vous permettra de faire ce qui suit :
@@ -37,7 +40,7 @@ Snakemake et Conda
 ## Liens utiles
 [Repository du projet sur GitLab](https://gitlab.univ-nantes.fr/foucal-a/full-chipseq)
 
-## Rapport d'avancement J1
+## Rapport d'avancement
 
 | | |
 |---|---|
