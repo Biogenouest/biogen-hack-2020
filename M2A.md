@@ -2,7 +2,7 @@
 [Gabriel Markov](https://github.com/gabrielmarkov)
 
 ## Participants
-- Erwan Corre
+- [Erwan Corre](https://github.com/r1corre)
 - [Jeanne Got](https://github.com/Jeanne-Got)
 - [Philippe Bordron](https://github.com/pbordron)
 
@@ -51,15 +51,13 @@ La lecture des articles cités plus haut serait une bonne préparation pour comp
 - [Exemple de pull request sur le Github de CheBI](https://github.com/ebi-chebi/ChEBI/issues/3727)
 
 
-
-
-## Rapport d'avancement J1
+## Rapport d'avancement
 
 | | |
 |---|---|
 |**Objectifs**|Réfléchir à l’interopérabilité entre réseaux métaboliques à l’échelle du génome et bases de données métabolomiques (Metabolights, Chebi)|
-|**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe|
-|**Difficultés techniques**|Assemblage de métabolomes par espèce à partir des données renseignées dans Chebi|
+|**Premiers résultats**|Identification des différents points de blocages sur l’ensemble du pipeline AuReMe. Script pour un tax id donné importe toutes les métabolites CheBI dans un fichier tabulé.[https://gitlab.univ-nantes.fr/bordron-p-1/chebi_species](https://gitlab.univ-nantes.fr/bordron-p-1/chebi_species)|
+|**Difficultés techniques**|Assemblage de métabolomes par espèce à partir des données renseignées dans Chebi. Problème de formatage des fichiers Chebi [https://github.com/ebi-chebi/ChEBI/issues/3997](https://github.com/ebi-chebi/ChEBI/issues/3997)|
 
 
 #### Données partagées en libre accès
