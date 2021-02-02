@@ -11,6 +11,7 @@ Camille Maumet
 - Yao Chi
 - Lise Desquilles
 - Raluca Teusan
+- Isabelle Hue
 
 
 ## Titre
@@ -39,7 +40,7 @@ Registres d’ontologies (BioPortal, ontobee , AberOWL, BioSamples), éventuelle
 - [BioSchemas](http://bioschemas.org/)
 - [Bioportal](https://bioportal.bioontology.org/)
 
-## Rapport d'avancement J1
+## Rapport d'avancement
 
 | | |
 |---|---|
@@ -49,5 +50,28 @@ Registres d’ontologies (BioPortal, ontobee , AberOWL, BioSamples), éventuelle
 |2.|Discussion sur les pratiques internes des plate-formes. / Description des formats de données brutes. / Discussion du cycle de vie d’un projet : acquisition / analyse / publication. / Echange sur le partage de données dans les communautés (partage obligatoire des données au moment de la publication dans une base publique). Echange sur l’utilité de /partager connaître la “richesse” des informations disponibles pour une meilleure utilisation des données existantes / la mise en place de collaborations.|
 |**Difficultés techniques**|Se mettre d’accord sur les objectifs|
 
+## WrapUp
 
+- 2 standards étudiés : BioSamples (BD EBI) ; BioSchemas (standards)
 
+- Questions pourquoi faire ? 
+  - Questions Isabelle 
+    - sur des adypocites intra-muscullaire ? 
+    - recherche des papiers dans un premier temps
+    - RNAseq fait sur les tissus ? données de puces ? → protocoles / analyses
+
+  - Questions Christophe 
+    - J’ai généré les données RNAseq pour comparer l’effet de 24h de jeûne chez des souris adultes mâles. Y a-t-il une(des) étude similaire faite chez la femelle? Puis-je récupérer des échantillons biologiques prélevés dans des conditions similaires dans un autre laboratoire?
+
+- Comment utiliser les standards pour établir des connexions entre 
+    - Sample ←→ Paper 
+    - Sample ←→ Study + protocoles
+    - Sample ←→ Tissue 
+    - Sample ←→ Expression databases 
+
+- ! Provenance sur protocoles d’analyses et protocoles expérimentaux ou de conservation des échantillons 
+
+**TODO :**
+- Ecrire une ou deux requêtes SPARQL pour répondre à ces questions 
+- 1 petit graphe RDF “à la main” 
+- Trouver un use-case sur la plateforme GenoBiRD pour annoter un projet avec des métadonnées. 
