@@ -39,14 +39,15 @@ Python; React; R; Docker; SnakeMake; Conda; NextFLow; Galaxy
 - [https://www.eclipse.org/atl/atlTransformations/](https://www.eclipse.org/atl/atlTransformations/)
 - [https://pax2graphml.genouest.org/](https://pax2graphml.genouest.org/)
 - [https://graphviz.org/doc/info/lang.html](https://graphviz.org/doc/info/lang.html) 
+- [https://dreampuf.github.io/GraphvizOnline/](https://dreampuf.github.io/GraphvizOnline/)
 
 
-## Rapport d'avancement J1
+## Rapport d'avancement
 
 | | |
 |---|---|
-|**Objectifs**||
-|**Premiers résultats**||
+|**Objectifs**|Extraire des graphs des pipelines nextflow/snakemake/CWL pour établir des liens entre outils|
+|**Premiers résultats**|Choix du format GraphML et étude des possibilités pour obtenir ce format depuis les différents gestionnaires de workflow.|
 |**Difficultés techniques**||
 
 #### Données partagées en libre accès
