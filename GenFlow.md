@@ -9,6 +9,8 @@ Thomas Darde - BioMas
 ## Titre
 GenFlow
 
+[Git du projet](https://github.com/BioMAs/genflow-biogen-hack-2020)
+
 ## Description du projet et des données utilisées
 
 À chaque publications les éditeurs imposent de mette à disposition les données brutes dans des dépôts publique pour permettre à tous d’appliquer les méthodes décrites dans le papier et d’en retirer les mêmes résultats. Cependant, dans la majorité des cas le dépôt des données brutes n’est pas suffisant et le il serait bon également de déposer le workflow d’analyse utilisé pour obtenir les résultats présentés dans l’article. S’il existe déjà certaines solutions pour le dépôt des workflows (Workflowhub, nf-core), elles ne règlent pas le problème de la portabilité des environnements ou encore de la version des logiciels, packages, des annotations, du génome ou des ontologies utilisée.
@@ -29,8 +31,6 @@ Génomique; Statistique; Ontologies; Dev web; Workflow
 Python; React; R; Docker; SnakeMake; Conda; NextFLow; Galaxy
 
 ## Liens outils
-
-[Git du projet](https://github.com/BioMAs/genflow-biogen-hack-2020)
 
 - [https://workflowhub.eu/workflows/3](https://workflowhub.eu/workflows/3)
 - [https://www.eclipse.org/atl/atlTransformations/](https://www.eclipse.org/atl/atlTransformations/)
